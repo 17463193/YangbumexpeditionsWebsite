@@ -1,0 +1,501 @@
+{
+"tourpackages": [
+    {
+      "availability": [
+        {
+          "end_date": "2025-05-31",
+          "start_date": "2025-03-01"
+        },
+        {
+          "end_date": "2025-11-30",
+          "start_date": "2025-09-01"
+        }
+      ],
+      "description": "A cultural tour exploring the vibrant city of Thimphu, including monasteries and local traditions.",
+      "duration": "3 Days / 2 Nights",
+      "images": [
+        {
+          "caption": "View of Tashichho Dzong in Thimphu.",
+          "src": "/assets/img/packages/thimphu-tsechu-tour.jpg"
+        }
+      ],
+      "itinerary": [
+        {
+          "accommodation_options": [
+            "Hotel Druk",
+            "Hotel Thimphu Towers"
+          ],
+          "activities": "Transfer from Paro Airport to Thimphu and explore the city.",
+          "attractions": [
+            "Buddha Dordenma",
+            "Tashichho Dzong"
+          ],
+          "day": 1,
+          "distance": "50 km",
+          "title": "Arrival in Thimphu"
+        },
+        {
+          "accommodation_options": [
+            "Hotel Norbuling",
+            "Taj Tashi"
+          ],
+          "activities": "Visit Memorial Chorten, Folk Heritage Museum, and Changangkha Lhakhang.",
+          "attractions": [
+            "Memorial Chorten",
+            "National Library"
+          ],
+          "day": 2,
+          "distance": "20 km",
+          "title": "Thimphu Sightseeing"
+        },
+        {
+          "accommodation_options": [
+            "N/A"
+          ],
+          "activities": "Enjoy a morning stroll before departing for Paro Airport.",
+          "attractions": [
+            "Weekend Market"
+          ],
+          "day": 3,
+          "distance": "50 km",
+          "title": "Departure"
+        }
+      ],
+      "month": "March, May, September, November",
+      "name": "Thimphu Cultural Experience",
+      "price": 300,
+      "tour_hightlights": [
+        "Visit Tashichho Dzong",
+        "Explore Buddha Dordenma",
+        "Tour the National Memorial Chorten"
+      ],
+      "tour_overview": "This tour takes you through the capital of Bhutan, where you can experience its unique blend of tradition and modernity.",
+      "tour_type": [
+        "Cultural",
+        "Short Trip"
+      ]
+    },
+    {
+      "availability": [
+        {
+          "end_date": "2025-05-31",
+          "start_date": "2025-03-01"
+        }
+      ],
+      "description": "A short and immersive tour showcasing Paro's famous landmarks.",
+      "duration": "3 Days / 2 Nights",
+      "images": [
+        {
+          "caption": "View of Paro Taktsang.",
+          "src": "/assets/img/packages/paro1.jpg"
+        }
+      ],
+      "itinerary": [
+        {
+          "accommodation_options": [
+            "Zhiwa Ling",
+            "Naksel Boutique Hotel"
+          ],
+          "activities": "Visit Paro Dzong and Rinpung Bridge.",
+          "attractions": [
+            "Paro Dzong",
+            "Rinpung Bridge"
+          ],
+          "day": 1,
+          "distance": "5 km",
+          "title": "Arrival in Paro"
+        },
+        {
+          "accommodation_options": [
+            "Zhiwa Ling",
+            "Naksel Boutique Hotel"
+          ],
+          "activities": "Enjoy a day hike to Taktsang Monastery.",
+          "attractions": [
+            "Taktsang Monastery"
+          ],
+          "day": 2,
+          "distance": "8 km",
+          "title": "Tiger's Nest Hike"
+        },
+        {
+          "accommodation_options": [
+            "N/A"
+          ],
+          "activities": "Visit Kyichu Lhakhang before departure.",
+          "attractions": [
+            "Kyichu Lhakhang"
+          ],
+          "day": 3,
+          "distance": "5 km",
+          "title": "Departure"
+        }
+      ],
+      "month": "March, May, September, November",
+      "name": "Paro Highlights Tour",
+      "price": 350,
+      "tour_hightlights": [
+        "Hike to Tiger's Nest",
+        "Visit Kyichu Lhakhang",
+        "Explore Paro Dzong"
+      ],
+      "tour_overview": "Discover Paro's rich cultural and spiritual heritage.",
+      "tour_type": [
+        "Cultural",
+        "Short Trip"
+      ]
+    },
+    null,
+    {
+      "availability": [
+        {
+          "end_date": "2025-05-31",
+          "start_date": "2025-03-01"
+        },
+        {
+          "end_date": "2025-12-15",
+          "start_date": "2025-10-01"
+        }
+      ],
+      "description": "A serene exploration of Punakha's lush valleys and iconic landmarks.",
+      "duration": "3 Days / 2 Nights",
+      "images": [
+        {
+          "caption": "Punakha Dzong nestled between two rivers.",
+          "src": "/assets/img/packages/p1.jpg"
+        }
+      ],
+      "itinerary": [
+        {
+          "accommodation_options": [
+            "RKPO Green Resort",
+            "Hotel Lobesa"
+          ],
+          "activities": "Visit Punakha Dzong and enjoy the scenic riverside.",
+          "attractions": [
+            "Punakha Dzong",
+            "Pho Chhu River"
+          ],
+          "day": 1,
+          "distance": "70 km",
+          "title": "Arrival in Punakha"
+        },
+        {
+          "accommodation_options": [
+            "Zhingkham Resort",
+            "Hotel Lobesa"
+          ],
+          "activities": "Walk on the Punakha Suspension Bridge and visit Chimi Lhakhang.",
+          "attractions": [
+            "Punakha Suspension Bridge",
+            "Chimi Lhakhang"
+          ],
+          "day": 2,
+          "distance": "15 km",
+          "title": "Explore Local Treasures"
+        },
+        {
+          "accommodation_options": [
+            "N/A"
+          ],
+          "activities": "Enjoy a peaceful morning stroll before departure.",
+          "attractions": [
+            "Wangdue Phodrang Valley"
+          ],
+          "day": 3,
+          "distance": "70 km",
+          "title": "Departure"
+        }
+      ],
+      "month": "March, May, October, December",
+      "name": "Punakha Serenity Tour",
+      "price": 400,
+      "tour_hightlights": [
+        "Visit Punakha Dzong",
+        "Walk on the Punakha Suspension Bridge",
+        "Explore Chimi Lhakhang"
+      ],
+      "tour_overview": "Immerse yourself in the tranquil beauty of Punakha, known for its majestic Dzongs and picturesque rivers.",
+      "tour_type": [
+        "Cultural",
+        "Nature"
+      ]
+    },
+    {
+      "availability": [
+        {
+          "end_date": "2025-06-30",
+          "start_date": "2025-04-01"
+        },
+        {
+          "end_date": "2025-11-30",
+          "start_date": "2025-09-01"
+        }
+      ],
+      "description": "Experience Punakha's natural beauty and engage in light outdoor adventures.",
+      "duration": "4 Days / 3 Nights",
+      "images": [
+        {
+          "caption": "Rafting on the Pho Chhu River in Punakha.",
+          "src": "/assets/img/packages/punakha_nature_adven.jpg"
+        }
+      ],
+      "itinerary": [
+        {
+          "accommodation_options": [
+            "RKPO Green Resort",
+            "Hotel Lobesa"
+          ],
+          "activities": "Visit Punakha Dzong and enjoy the riverside views.",
+          "attractions": [
+            "Punakha Dzong",
+            "Pho Chhu River"
+          ],
+          "day": 1,
+          "distance": "70 km",
+          "title": "Arrival in Punakha"
+        },
+        {
+          "accommodation_options": [
+            "Zhingkham Resort",
+            "Hotel Lobesa"
+          ],
+          "activities": "Go rafting on the Pho Chhu River and visit Khamsum Yulley Namgyal Chorten.",
+          "attractions": [
+            "Pho Chhu River",
+            "Khamsum Yulley Namgyal Chorten"
+          ],
+          "day": 2,
+          "distance": "20 km",
+          "title": "Rafting and Chorten Visit"
+        },
+        {
+          "accommodation_options": [
+            "RKPO Green Resort"
+          ],
+          "activities": "Tour Wangdue Phodrang town and enjoy local cuisine.",
+          "attractions": [
+            "Wangdue Phodrang Dzong",
+            "Local Villages"
+          ],
+          "day": 3,
+          "distance": "15 km",
+          "title": "Explore Wangdue Phodrang"
+        },
+        {
+          "accommodation_options": [
+            "N/A"
+          ],
+          "activities": "Relax in the morning before driving back.",
+          "attractions": [
+            "N/A"
+          ],
+          "day": 4,
+          "distance": "70 km",
+          "title": "Departure"
+        }
+      ],
+      "month": "April, June, September, November",
+      "name": "Punakha Nature and Adventure Tour",
+      "price": 450,
+      "tour_hightlights": [
+        "Rafting on Pho Chhu River",
+        "Visit Khamsum Yulley Namgyal Chorten",
+        "Explore Wangdue Phodrang"
+      ],
+      "tour_overview": "Discover Punakha's stunning landscapes and outdoor attractions.",
+      "tour_type": [
+        "Adventure",
+        "Nature"
+      ]
+    },
+    {
+      "availability": [
+        {
+          "end_date": "2025-05-31",
+          "start_date": "2025-03-01"
+        },
+        {
+          "end_date": "2025-11-30",
+          "start_date": "2025-09-01"
+        }
+      ],
+      "description": "A spiritual journey through the sacred sites of Bumthang.",
+      "duration": "4 Days / 3 Nights",
+      "images": [
+        {
+          "caption": "View of Jakar Dzong in Bumthang Valley.",
+          "src": "/assets/img/packages/bumthang.jpg"
+        }
+      ],
+      "itinerary": [
+        {
+          "accommodation_options": [
+            "Amankora Bumthang",
+            "Chumey Nature Resort"
+          ],
+          "activities": "Tour Jakar Dzong and enjoy the stunning valley views.",
+          "attractions": [
+            "Jakar Dzong",
+            "Bumthang Valley"
+          ],
+          "day": 1,
+          "distance": "5 km",
+          "title": "Arrival in Bumthang"
+        },
+        {
+          "accommodation_options": [
+            "Yugharling Resort",
+            "Amankora Bumthang"
+          ],
+          "activities": "Visit Kurjey Lhakhang and Jambay Lhakhang.",
+          "attractions": [
+            "Kurjey Lhakhang",
+            "Jambay Lhakhang"
+          ],
+          "day": 2,
+          "distance": "10 km",
+          "title": "Sacred Sites of Bumthang"
+        },
+        {
+          "accommodation_options": [
+            "Yugharling Resort"
+          ],
+          "activities": "Explore local handicrafts and cheese-making workshops.",
+          "attractions": [
+            "Bumthang Cheese Factory",
+            "Handicraft Stores"
+          ],
+          "day": 3,
+          "distance": "5 km",
+          "title": "Local Experiences"
+        },
+        {
+          "accommodation_options": [
+            "N/A"
+          ],
+          "activities": "Enjoy the serene morning views before departure.",
+          "attractions": [
+            "N/A"
+          ],
+          "day": 4,
+          "distance": "N/A",
+          "title": "Departure"
+        }
+      ],
+      "month": "March, May, September, November",
+      "name": "Bumthang Spiritual Retreat",
+      "price": 500,
+      "tour_hightlights": [
+        "Visit Jakar Dzong",
+        "Tour Kurjey Lhakhang",
+        "Explore Jambay Lhakhang"
+      ],
+      "tour_overview": "Explore the spiritual heart of Bhutan, known for its sacred temples and monasteries.",
+      "tour_type": [
+        "Spiritual",
+        "Cultural"
+      ]
+    },
+    {
+      "availability": [
+        {
+          "end_date": "2025-06-30",
+          "start_date": "2025-03-01"
+        },
+        {
+          "end_date": "2025-11-30",
+          "start_date": "2025-09-01"
+        }
+      ],
+      "description": "A complete exploration of Bumthang's scenic beauty and cultural heritage.",
+      "duration": "5 Days / 4 Nights",
+      "images": [
+        {
+          "caption": "Burning Lake in Tang Valley, Bumthang.",
+          "src": "/assets/img/packages/bumthang_valley.jpg"
+        }
+      ],
+      "itinerary": [
+        {
+          "accommodation_options": [
+            "Amankora Bumthang",
+            "Chumey Nature Resort"
+          ],
+          "activities": "Explore Jakar Dzong and local markets.",
+          "attractions": [
+            "Jakar Dzong",
+            "Bumthang Market"
+          ],
+          "day": 1,
+          "distance": "5 km",
+          "title": "Arrival in Bumthang"
+        },
+        {
+          "accommodation_options": [
+            "Yugharling Resort"
+          ],
+          "activities": "Spend a day exploring Tang Valley and Burning Lake.",
+          "attractions": [
+            "Tang Valley",
+            "Burning Lake"
+          ],
+          "day": 2,
+          "distance": "20 km",
+          "title": "Visit Tang Valley"
+        },
+        {
+          "accommodation_options": [
+            "Yugharling Resort"
+          ],
+          "activities": "Tour the ancient Tamshing Monastery and surrounding areas.",
+          "attractions": [
+            "Tamshing Monastery",
+            "Local Farms"
+          ],
+          "day": 3,
+          "distance": "10 km",
+          "title": "Tamshing Monastery"
+        },
+        {
+          "accommodation_options": [
+            "Amankora Bumthang"
+          ],
+          "activities": "Visit the local cheese factory and learn about handicrafts.",
+          "attractions": [
+            "Bumthang Cheese Factory",
+            "Handicraft Stores"
+          ],
+          "day": 4,
+          "distance": "5 km",
+          "title": "Cheese Factory and Handicrafts"
+        },
+        {
+          "accommodation_options": [
+            "N/A"
+          ],
+          "activities": "Relax before heading to the next destination.",
+          "attractions": [
+            "N/A"
+          ],
+          "day": 5,
+          "distance": "N/A",
+          "title": "Departure"
+        }
+      ],
+      "month": "March, June, September, November",
+      "name": "Bumthang Valley Exploration",
+      "price": 600,
+      "tour_hightlights": [
+        "Explore Tang Valley",
+        "Visit Burning Lake",
+        "Tour Tamshing Monastery"
+      ],
+      "tour_overview": "Discover the best of Bumthang, from sacred temples to its rolling valleys.",
+      "tour_type": [
+        "Cultural",
+        "Nature"
+      ]
+    }
+  ]
+}

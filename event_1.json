@@ -1,0 +1,2249 @@
+{
+  "packages": [
+    {
+      "id": 1,
+      "title": "5 Day Magical Bhutan Travel Plan",
+      "mainImage": "./assets/img/packages/b.jpg",
+      "gallery": [
+        "../assets/img/packages/thimphu-tsechu-tour.jpg",
+        "../assets/img/packages/b.jpg",
+        "../assets/img/packages/d.jpg"
+      ],
+      "duration": "4 days",
+      "location": "Bhutan",
+      "hotel": "3-star Hotel",
+      "groupSize": "Up to 15",
+      "meals": "Breakfast and Dinner",
+      "vehicle": "AC Coach",
+      "oldPrice": 300,
+      "price": 200,
+      "discount": "33% off",
+      "perPerson": true,
+      "highlights": [
+        "Visit Dochula",
+        "Explore Buddha stupa and capture Breathtaking views",
+        "Visit Paro Taktsang Monastery"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Arrival in Paro",
+          "description": "Arrive at Paro International Airport and transfer to your hotel. Afternoon visit to Rinpung Dzong and Kyichu Lhakhang, one of Bhutan's oldest temples.",
+          "activities": [
+            {"icon": "✈️", "name": "Airport Transfer"},
+            {"icon": "🏛️", "name": "Rinpung Dzong Visit"},
+            {"icon": "🛕", "name": "Kyichu Lhakhang"},
+            {"icon": "🏨", "name": "Hotel Check-in"},
+            {"icon": "🍽️", "name": "Welcome Dinner"}
+          ]
+        },
+        {
+          "day": "Day 2",
+          "title": "Paro to Thimphu",
+          "description": "Morning drive to Thimphu (2 hours). Visit Buddha Dordenma, Memorial Chorten, and Tashichho Dzong. Evening explore Thimphu market.",
+          "activities": [
+            {"icon": "🚗", "name": "Scenic Drive"},
+            {"icon": "🛕", "name": "Buddha Dordenma"},
+            {"icon": "🛕", "name": "Memorial Chorten"},
+            {"icon": "🏛️", "name": "Tashichho Dzong"},
+            {"icon": "🛍️", "name": "Local Market"}
+          ]
+        },
+        {
+          "day": "Day 3",
+          "title": "Thimphu to Punakha via Dochula Pass",
+          "description": "Drive to Punakha via Dochula Pass (3,100m) with panoramic Himalayan views. Visit Punakha Dzong and Chimi Lhakhang.",
+          "activities": [
+            {"icon": "⛰️", "name": "Dochula Pass"},
+            {"icon": "🏛️", "name": "Punakha Dzong"},
+            {"icon": "🛕", "name": "Chimi Lhakhang"},
+            {"icon": "🏞️", "name": "Scenic Views"}
+          ]
+        },
+        {
+          "day": "Day 4",
+          "title": "Tiger's Nest Hike & Departure",
+          "description": "Morning hike to Taktsang Monastery (3-4 hours round trip). Afternoon transfer to airport for departure.",
+          "activities": [
+            {"icon": "🥾", "name": "Tiger's Nest Hike"},
+            {"icon": "🛕", "name": "Taktsang Monastery"},
+            {"icon": "✈️", "name": "Airport Transfer"}
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What's included in the price?",
+          "answer": "All accommodations, meals, transport, and guide services as specified in the itinerary."
+        },
+        {
+          "question": "What's the cancellation policy?",
+          "answer": "Free cancellation up to 30 days before departure with full refund."
+        }
+      ],
+      "reviews": [
+        {
+          "name": "Traveler123",
+          "rating": 5,
+          "date": "2023-05-15",
+          "text": "An unforgettable experience with excellent guides!",
+          "avatar": "T1"
+        }
+      ],
+      "tags": [
+        { "text": "⏱ 8hrs", "type": "default" },
+        { "text": "📅 4 days", "type": "default" },
+        { "text": "💰 Budget Friendly", "type": "budget" }
+      ],
+      "description": "Thimphu- Punakha-Paro",    
+      "priceText": "From $200",
+      "rating": 4.8,
+      "reviewCount": 24
+    },
+    {
+      "id": 2,
+      "title": "7-Day Thimphu Tshechu Festival Experience",
+      "mainImage": "../assets/img/packages/thimphu-tsechu-tour.jpg",
+      "gallery": [
+        "../assets/img/packages/thimphu-tsechu-tour.jpg",
+        "../assets/img/packages/b.jpg",
+        "../assets/img/packages/homepack/memorial.jpg"
+      ],
+      "duration": "7 days",
+      "location": "Bhutan",
+      "hotel": "4-star Hotel",
+      "groupSize": "Up to 20",
+      "meals": "Breakfast included",
+      "vehicle": "Private SUV",
+      "oldPrice": 350,
+      "price": 280,
+      "discount": "20% off",
+      "perPerson": true,
+      "highlights": [
+        "Explore Tashichho Dzong",
+        "Visit Memorial Chorten",
+        "Experience Tshechu Festival"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Arrival in Paro & Transfer to Thimphu",
+          "description": "Arrive at Paro Airport and transfer to Thimphu (1.5 hours). Visit Tashichho Dzong and Memorial Chorten in the evening.",
+          "activities": [
+            {"icon": "✈️", "name": "Airport Transfer"},
+            {"icon": "🏛️", "name": "Tashichho Dzong"},
+            {"icon": "🛕", "name": "Memorial Chorten"},
+            {"icon": "🏨", "name": "Hotel Check-in"}
+          ]
+        },
+        {
+          "day": "Day 2",
+          "title": "Thimphu Sightseeing",
+          "description": "Full day exploring Thimphu: Folk Heritage Museum, Textile Museum, and Bhutan Post Office. Evening at leisure.",
+          "activities": [
+            {"icon": "🏛️", "name": "Folk Heritage Museum"},
+            {"icon": "🧵", "name": "Textile Museum"},
+            {"icon": "📮", "name": "Bhutan Post Office"}
+          ]
+        },
+        {
+          "day": "Day 3-5",
+          "title": "Tshechu Festival Days",
+          "description": "Three full days immersed in the Thimphu Tshechu festival, witnessing mask dances, religious performances, and local celebrations.",
+          "activities": [
+            {"icon": "🎭", "name": "Mask Dances"},
+            {"icon": "🙏", "name": "Religious Performances"},
+            {"icon": "🎉", "name": "Festival Atmosphere"}
+          ]
+        },
+        {
+          "day": "Day 6",
+          "title": "Day Trip to Punakha",
+          "description": "Excursion to Punakha via Dochula Pass. Visit Punakha Dzong and Chimi Lhakhang. Return to Thimphu in evening.",
+          "activities": [
+            {"icon": "⛰️", "name": "Dochula Pass"},
+            {"icon": "🏛️", "name": "Punakha Dzong"},
+            {"icon": "🛕", "name": "Chimi Lhakhang"}
+          ]
+        },
+        {
+          "day": "Day 7",
+          "title": "Departure",
+          "description": "Morning at leisure. Transfer to Paro Airport for departure.",
+          "activities": [
+            {"icon": "✈️", "name": "Airport Transfer"}
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What's included in the price?",
+          "answer": "All accommodations, meals, transport, and guide services as specified in the itinerary."
+        },
+        {
+          "question": "What's the cancellation policy?",
+          "answer": "Free cancellation up to 30 days before departure with full refund."
+        }
+      ],
+      "reviews": [
+        {
+          "name": "FestivalLover",
+          "rating": 5,
+          "date": "2023-10-20",
+          "text": "The Thimphu Tshechu was absolutely magical! The colors, dances, and energy were unforgettable.",
+          "avatar": "FL"
+        }
+      ],
+      "tags": [
+        { "text": "Festivals", "type": "default" },
+        { "text": "📅 7 days", "type": "default" },
+        { "text": "⭐ Popular", "type": "recommended" }
+      ],
+      "description": "Experience Thimphu Tsechu festival.",
+      "priceText": "From $280",
+      "rating": 4.7,
+      "reviewCount": 18
+    },
+    {
+      "id": 3,
+      "title": "Cultural Central Bhutan Tour",
+      "mainImage": "./assets/img/packages/homepack/bumthang.jpg",
+      "gallery": [
+        "./assets/img/packages/homepack/bumthang.jpg",
+        "./assets/img/packages/homepack/bumthang2.jpg",
+        "./assets/img/packages/homepack/bumthang3.jpg"
+      ],
+      "duration": "6 days",
+      "location": "Bhutan",
+      "hotel": "3-star Hotel",
+      "groupSize": "Up to 12",
+      "meals": "All meals included",
+      "vehicle": "Mini Bus",
+      "oldPrice": 700,
+      "price": 590,
+      "discount": "15% off",
+      "perPerson": true,
+      "highlights": [
+        "Trongsa Dzong visit",
+        "Bumthang Valley tour",
+        "Local crafts and temples"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Arrival in Paro & Transfer to Thimphu",
+          "description": "Arrive at Paro Airport and drive to Thimphu. Visit Tashichho Dzong and Memorial Chorten.",
+          "activities": [
+            {"icon": "✈️", "name": "Airport Transfer"},
+            {"icon": "🏛️", "name": "Tashichho Dzong"},
+            {"icon": "🛕", "name": "Memorial Chorten"},
+            {"icon": "🏨", "name": "Hotel Check-in"}
+          ]
+        },
+        {
+          "day": "Day 2",
+          "title": "Thimphu to Trongsa",
+          "description": "Scenic drive to Trongsa via Dochula Pass and Pele La Pass. Visit Trongsa Dzong and Ta Dzong museum.",
+          "activities": [
+            {"icon": "⛰️", "name": "Dochula Pass"},
+            {"icon": "⛰️", "name": "Pele La Pass"},
+            {"icon": "🏛️", "name": "Trongsa Dzong"},
+            {"icon": "🏛️", "name": "Ta Dzong Museum"}
+          ]
+        },
+        {
+          "day": "Day 3",
+          "title": "Trongsa to Bumthang",
+          "description": "Drive to Bumthang Valley. Visit Jakar Dzong, Jambay Lhakhang, and Kurje Lhakhang.",
+          "activities": [
+            {"icon": "🏛️", "name": "Jakar Dzong"},
+            {"icon": "🛕", "name": "Jambay Lhakhang"},
+            {"icon": "🛕", "name": "Kurje Lhakhang"}
+          ]
+        },
+        {
+          "day": "Day 4",
+          "title": "Bumthang Exploration",
+          "description": "Full day exploring Bumthang: Visit Tamshing Lhakhang, Swiss Farm, and local breweries.",
+          "activities": [
+            {"icon": "🛕", "name": "Tamshing Lhakhang"},
+            {"icon": "🧀", "name": "Swiss Farm"},
+            {"icon": "🍺", "name": "Local Brewery"}
+          ]
+        },
+        {
+          "day": "Day 5",
+          "title": "Bumthang to Punakha",
+          "description": "Return drive to Punakha. Visit Wangdue Phodrang Dzong en route.",
+          "activities": [
+            {"icon": "🏛️", "name": "Wangdue Phodrang Dzong"},
+            {"icon": "🚗", "name": "Scenic Drive"}
+          ]
+        },
+        {
+          "day": "Day 6",
+          "title": "Punakha to Paro & Departure",
+          "description": "Morning visit to Punakha Dzong. Drive to Paro for departure flight.",
+          "activities": [
+            {"icon": "🏛️", "name": "Punakha Dzong"},
+            {"icon": "✈️", "name": "Airport Transfer"}
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What's included in the price?",
+          "answer": "All accommodations, meals, transport, and guide services as specified in the itinerary."
+        },
+        {
+          "question": "Are there any physical requirements for this tour?",
+          "answer": "This tour involves moderate walking at high altitudes. A reasonable level of fitness is recommended."
+        }
+      ],
+      "reviews": [
+        {
+          "name": "CultureExplorer",
+          "rating": 5,
+          "date": "2023-07-12",
+          "text": "The cultural immersion was incredible. Our guide was extremely knowledgeable about Bhutan's history.",
+          "avatar": "CE"
+        }
+      ],
+      "tags": [
+        { "text": "📜 Culture", "type": "default" },
+        { "text": "📅 6 days", "type": "default" },
+        { "text": "🚌 Scenic Drive", "type": "recommended" }
+      ],
+      "description": "Experience central Bhutan's unique heritage.",
+      "priceText": "From $590",
+      "rating": 4.9,
+      "reviewCount": 32
+    },
+    {
+      "id": 4,
+      "title": "Bhutan Nature & Wellness Retreat",
+      "mainImage": "./assets/img/packages/homepack/wellness-meditation-retreats-bhutan.jpg",
+      "gallery": [
+        "./assets/img/packages/homepack/wellness-meditation-retreats-bhutan.jpg",
+        "./assets/img/packages/homepack/wellness2.jpg",
+        "./assets/img/packages/homepack/wellness3.jpg"
+      ],
+      "duration": "5 days",
+      "location": "Bhutan",
+      "hotel": "Wellness Resort",
+      "groupSize": "Up to 10",
+      "meals": "Healthy Meals Included",
+      "vehicle": "AC Coach",
+      "oldPrice": 650,
+      "price": 520,
+      "discount": "20% off",
+      "perPerson": true,
+      "highlights": [
+        "Hot stone bath in Gasa",
+        "Yoga and meditation sessions",
+        "Nature walks and herbal teas"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Arrival and Wellness Orientation",
+          "description": "Arrive at Paro Airport and transfer to wellness resort. Evening orientation and gentle stretching session.",
+          "activities": [
+            {"icon": "✈️", "name": "Airport Transfer"},
+            {"icon": "🏨", "name": "Resort Check-in"},
+            {"icon": "🧘", "name": "Wellness Orientation"},
+            {"icon": "💆", "name": "Gentle Stretching"}
+          ]
+        },
+        {
+          "day": "Day 2",
+          "title": "Morning Yoga & Nature Walk",
+          "description": "Sunrise yoga session followed by healthy breakfast. Guided nature walk to nearby forest with herbal tea tasting.",
+          "activities": [
+            {"icon": "🧘", "name": "Sunrise Yoga"},
+            {"icon": "🥾", "name": "Nature Walk"},
+            {"icon": "🍵", "name": "Herbal Tea Tasting"}
+          ]
+        },
+        {
+          "day": "Day 3",
+          "title": "Hot Stone Bath Experience",
+          "description": "Morning meditation session. Afternoon transfer to Gasa for traditional hot stone bath experience.",
+          "activities": [
+            {"icon": "🧘", "name": "Morning Meditation"},
+            {"icon": "♨️", "name": "Hot Stone Bath"},
+            {"icon": "💆", "name": "Relaxation Time"}
+          ]
+        },
+        {
+          "day": "Day 4",
+          "title": "Silent Meditation & Spa Day",
+          "description": "Morning silent meditation walk. Afternoon Ayurvedic spa treatments at the resort.",
+          "activities": [
+            {"icon": "🚶", "name": "Silent Walk"},
+            {"icon": "💆", "name": "Ayurvedic Spa"},
+            {"icon": "🧖", "name": "Steam Therapy"}
+          ]
+        },
+        {
+          "day": "Day 5",
+          "title": "Departure",
+          "description": "Final morning yoga session and healthy breakfast. Transfer to airport for departure.",
+          "activities": [
+            {"icon": "🧘", "name": "Farewell Yoga"},
+            {"icon": "✈️", "name": "Airport Transfer"}
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What's included in the price?",
+          "answer": "All accommodations, meals, transport, and guide services as specified in the itinerary."
+        },
+        {
+          "question": "Is prior yoga experience required?",
+          "answer": "No, our sessions cater to all levels from beginners to advanced practitioners."
+        }
+      ],
+      "reviews": [
+        {
+          "name": "WellnessSeeker",
+          "rating": 5,
+          "date": "2023-09-05",
+          "text": "This retreat completely reset my mind and body. The hot stone baths were heavenly!",
+          "avatar": "WS"
+        }
+      ],
+      "tags": [
+        { "text": "🧘 Wellness", "type": "default" },
+        { "text": "🍵 Relaxing", "type": "recommended" }
+      ],
+      "description": "Relax, detox, and reconnect with Bhutan's healing nature.",
+      "priceText": "From $520",
+      "rating": 5.0,
+      "reviewCount": 15
+    },
+    {
+      "id": 5,
+      "title": "Punakha Valley Adventure",
+      "mainImage": "./assets/img/packages/homepack/punkha.jpg",
+      "gallery": [
+        "./assets/img/packages/homepack/punkha.jpg",
+        "./assets/img/packages/homepack/punkha2.jpg",
+        "./assets/img/packages/homepack/punkha3.jpg"
+      ],
+      "duration": "4 days",
+      "location": "Bhutan",
+      "hotel": "Eco Lodge",
+      "groupSize": "Up to 16",
+      "meals": "Breakfast and Dinner",
+      "vehicle": "Jeep Safari",
+      "oldPrice": 480,
+      "price": 380,
+      "discount": "21% off",
+      "perPerson": true,
+      "highlights": [
+        "River rafting in Mo Chhu",
+        "Visit Punakha Dzong",
+        "Local farming village tour"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Arrival & Transfer to Punakha",
+          "description": "Arrive at Paro Airport and drive to Punakha via Dochula Pass. Check into eco lodge and orientation.",
+          "activities": [
+            {"icon": "✈️", "name": "Airport Transfer"},
+            {"icon": "⛰️", "name": "Dochula Pass"},
+            {"icon": "🏨", "name": "Lodge Check-in"},
+            {"icon": "📋", "name": "Adventure Briefing"}
+          ]
+        },
+        {
+          "day": "Day 2",
+          "title": "White Water Rafting & Dzong Visit",
+          "description": "Morning white water rafting on Mo Chhu River (Class II-III). Afternoon visit to Punakha Dzong.",
+          "activities": [
+            {"icon": "🚣", "name": "River Rafting"},
+            {"icon": "🏛️", "name": "Punakha Dzong"},
+            {"icon": "🏊", "name": "River Swimming"}
+          ]
+        },
+        {
+          "day": "Day 3",
+          "title": "Village Tour & Hike to Khamsum Yulley",
+          "description": "Morning visit to local farming village. Afternoon hike to Khamsum Yulley Namgyal Chorten with stunning valley views.",
+          "activities": [
+            {"icon": "🏡", "name": "Village Tour"},
+            {"icon": "🥾", "name": "Scenic Hike"},
+            {"icon": "🏞️", "name": "Valley Views"}
+          ]
+        },
+        {
+          "day": "Day 4",
+          "title": "Departure",
+          "description": "Morning at leisure. Transfer to Paro Airport for departure.",
+          "activities": [
+            {"icon": "✈️", "name": "Airport Transfer"}
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What's included in the price?",
+          "answer": "All accommodations, meals, transport, and guide services as specified in the itinerary."
+        },
+        {
+          "question": "Is rafting suitable for beginners?",
+          "answer": "Yes, we provide full safety gear and instruction. The rapids are class II-III, suitable for first-timers."
+        }
+      ],
+      "reviews": [
+        {
+          "name": "AdventureBuff",
+          "rating": 4,
+          "date": "2023-08-18",
+          "text": "The rafting was exhilarating and the Punakha Dzong is breathtaking. Would recommend!",
+          "avatar": "AB"
+        }
+      ],
+      "tags": [
+        { "text": "🚣 Adventure", "type": "default" },
+        { "text": "🌄 Scenic", "type": "recommended" }
+      ],
+      "description": "For the nature-loving adrenaline seeker in Bhutan.",
+      "priceText": "From $380",
+      "rating": 4.6,
+      "reviewCount": 22
+    },
+    {
+      "id": 6,
+      "title": "Eastern Bhutan Explorer",
+      "mainImage": "./assets/img/packages/homepack/thimphu_adventure.jpg",
+      "gallery": [
+        "./assets/img/packages/homepack/thimphu_adventure.jpg",
+        "./assets/img/packages/homepack/eastern1.jpg",
+        "./assets/img/packages/homepack/eastern2.jpg"
+      ],
+      "duration": "7 days",
+      "location": "Bhutan",
+      "hotel": "3-star Hotel",
+      "groupSize": "Up to 8",
+      "meals": "Breakfast, Lunch, Dinner",
+      "vehicle": "Mini Coach",
+      "oldPrice": 800,
+      "price": 650,
+      "discount": "19% off",
+      "perPerson": true,
+      "highlights": [
+        "Mongar Dzong and Trashigang",
+        "Scenic road trips",
+        "Meet local artisans"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Arrival in Paro & Transfer to Bumthang",
+          "description": "Fly to Paro and immediately transfer east towards Bumthang (long drive with scenic stops).",
+          "activities": [
+            {"icon": "✈️", "name": "Airport Arrival"},
+            {"icon": "🚗", "name": "Scenic Drive"},
+            {"icon": "🏨", "name": "Hotel Check-in"}
+          ]
+        },
+        {
+          "day": "Day 2",
+          "title": "Bumthang Cultural Exploration",
+          "description": "Full day exploring Bumthang's cultural sites: Jakar Dzong, Jambay Lhakhang, and Kurje Lhakhang.",
+          "activities": [
+            {"icon": "🏛️", "name": "Jakar Dzong"},
+            {"icon": "🛕", "name": "Jambay Lhakhang"},
+            {"icon": "🛕", "name": "Kurje Lhakhang"}
+          ]
+        },
+        {
+          "day": "Day 3",
+          "title": "Bumthang to Mongar",
+          "description": "Drive to Mongar via Thrumsing La Pass (3,780m). Visit Mongar Dzong in the evening.",
+          "activities": [
+            {"icon": "⛰️", "name": "Thrumsing La Pass"},
+            {"icon": "🏛️", "name": "Mongar Dzong"},
+            {"icon": "🏞️", "name": "Scenic Views"}
+          ]
+        },
+        {
+          "day": "Day 4",
+          "title": "Mongar to Trashigang",
+          "description": "Continue east to Trashigang. Visit Trashigang Dzong and local weaving centers.",
+          "activities": [
+            {"icon": "🏛️", "name": "Trashigang Dzong"},
+            {"icon": "🧵", "name": "Weaving Centers"},
+            {"icon": "🛍️", "name": "Local Crafts"}
+          ]
+        },
+        {
+          "day": "Day 5",
+          "title": "Trashigang Exploration",
+          "description": "Full day exploring Trashigang region: Visit Radhi village known for raw silk production and Gom Kora temple.",
+          "activities": [
+            {"icon": "🏡", "name": "Radhi Village"},
+            {"icon": "🧵", "name": "Silk Weaving"},
+            {"icon": "🛕", "name": "Gom Kora Temple"}
+          ]
+        },
+        {
+          "day": "Day 6",
+          "title": "Return to Bumthang",
+          "description": "Begin return journey with stop in Ura Valley. Visit Ura village and temple.",
+          "activities": [
+            {"icon": "🏡", "name": "Ura Village"},
+            {"icon": "🛕", "name": "Ura Temple"},
+            {"icon": "🏞️", "name": "Valley Views"}
+          ]
+        },
+        {
+          "day": "Day 7",
+          "title": "Bumthang to Paro & Departure",
+          "description": "Morning flight from Bumthang to Paro. Transfer to Paro Airport for international departure.",
+          "activities": [
+            {"icon": "✈️", "name": "Domestic Flight"},
+            {"icon": "✈️", "name": "International Departure"}
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What's included in the price?",
+          "answer": "All accommodations, meals, transport, and guide services as specified in the itinerary."
+        },
+        {
+          "question": "How strenuous is this tour?",
+          "answer": "This tour involves long drives on winding mountain roads. We recommend it for travelers comfortable with extended travel days."
+        }
+      ],
+      "reviews": [
+        {
+          "name": "OffThePath",
+          "rating": 5,
+          "date": "2023-11-03",
+          "text": "Eastern Bhutan is untouched and authentic. The textile artisans were incredible to meet.",
+          "avatar": "OTP"
+        }
+      ],
+      "tags": [
+        { "text": "🧭 Remote", "type": "default" },
+        { "text": "🛣️ Road Trip", "type": "recommended" }
+      ],
+      "description": "Explore Bhutan's hidden gems in the east.",
+      "priceText": "From $650",
+      "rating": 4.5,
+      "reviewCount": 12
+    }
+  ],
+  "festivals": [
+    {
+      "id": 1,
+      "name": "Paro Tshechu",
+      "type": "religious",
+      "date": "March 17-21, 2025",
+      "image": "../assets/img/festivals/paro-tshechu.jpg",
+      "location": {
+        "city": "Paro",
+        "dzongkhag": "Paro District",
+        "venue": "Rinpung Dzong",
+        "coordinates": {
+          "lat": 27.4305,
+          "lng": 89.4133
+        },
+        "address": "Rinpung Dzong, Paro Valley, Bhutan"
+      },
+      "description": "One of Bhutan's most spectacular festivals featuring sacred mask dances that purify and bless spectators.",
+      "detailedDescription": [
+        "The Paro Tshechu is a five-day religious festival held annually in the courtyard of Rinpung Dzong, attracting thousands of devotees and tourists.",
+        "Monks perform sacred Cham dances wearing elaborate costumes and masks representing deities, demons, and animals from Buddhist mythology.",
+        "The festival culminates with the dramatic unfurling of the Thongdrol (a giant religious tapestry) at dawn on the final day, believed to grant liberation to those who view it."
+      ],
+      "historicalSignificance": {
+        "origin": "Established in the 17th century by Zhabdrung Ngawang Namgyal",
+        "purpose": "To commemorate Guru Rinpoche's introduction of Buddhism to Bhutan",
+        "culturalImportance": "The dances preserve ancient religious teachings and serve as a medium for spiritual blessings"
+      },
+      "highlights": [
+        {
+          "title": "Masked Cham Dances",
+          "description": "Sacred dances performed by monks in elaborate costumes depicting Buddhist deities and legends",
+          "duration": "Daily from 9AM to 4PM",
+          "significance": "Each dance conveys specific Buddhist teachings and blessings"
+        },
+        {
+          "title": "Thongdrol Unveiling",
+          "description": "Display of a giant thangka (religious tapestry) measuring 30x45 feet",
+          "time": "Dawn on the final day (March 21)",
+          "significance": "Mere sight of the thangka is believed to cleanse sins and bring spiritual liberation"
+        },
+        {
+          "title": "Traditional Market",
+          "description": "Local artisans selling Bhutanese handicrafts, textiles, and religious artifacts",
+          "location": "Dzong courtyard",
+          "items": "Handwoven textiles, wooden bowls, ritual items, and local snacks"
+        }
+      ],
+      "schedule": [
+        {
+          "day": "Day 1 (March 17)",
+          "events": [
+            "Opening ceremonies and purification rituals (6AM)",
+            "Dance of the Four Stags (10AM)",
+            "Dance of the Three Kinds of Ging (2PM)"
+          ]
+        },
+        {
+          "day": "Day 2 (March 18)",
+          "events": [
+            "Dance of the Lords of the Cremation Grounds (9AM)",
+            "Dance of the Terrifying Deities (1PM)"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "dressCode": "Modest clothing covering shoulders and knees. Traditional Bhutanese dress (gho/kira) is encouraged but not required.",
+        "etiquette": [
+          "Remove shoes before entering temple areas",
+          "Maintain silence during religious ceremonies",
+          "Ask permission before photographing monks"
+        ],
+        "tips": [
+          "Arrive by 5AM for the Thongdrol unveiling to secure a good viewing spot",
+          "Bring sunscreen and water as seating is outdoors",
+          "Carry small change for donations and market purchases"
+        ],
+        "accessibility": "Limited wheelchair access due to ancient stone steps and uneven surfaces"
+      },
+      "transportation": {
+        "air": "Paro International Airport (PBH) - 10 minute taxi ride to venue",
+        "road": [
+          "Regular buses from Thimphu (1.5 hours)",
+          "Private taxis available throughout Bhutan"
+        ],
+        "parking": "Limited parking available near Rinpung Dzong (arrive early)"
+      },
+      "accommodation": [
+        {
+          "name": "Zhiwa Ling Hotel",
+          "type": "Luxury",
+          "distance": "5km from venue",
+          "features": [
+            "Traditional Bhutanese architecture",
+            "Spa with hot stone baths",
+            "Mountain views"
+          ],
+          "priceRange": "$400-$800/night"
+        },
+        {
+          "name": "Hotel Olathang",
+          "type": "Mid-range",
+          "distance": "3km from venue",
+          "features": [
+            "Bhutanese-style rooms",
+            "On-site restaurant",
+            "Garden setting"
+          ],
+          "priceRange": "$150-$300/night"
+        }
+      ],
+      "gallery": [
+        {
+          "url": "/images/paro-tshechu-1.jpg",
+          "caption": "Monks performing the Black Hat dance",
+          "credit": "Photo by Bhutan Tourism Board"
+        },
+        {
+          "url": "/images/paro-tshechu-2.jpg",
+          "caption": "Rinpung Dzong illuminated during festival",
+          "credit": "Photo by National Geographic"
+        },
+        {
+          "url": "/images/paro-tshechu-3.jpg",
+          "caption": "Devotees viewing the Thongdrol",
+          "credit": "Photo by Bhutan Cultural Department"
+        }
+      ],
+      "officialLinks": {
+        "website": "https://www.bhutan.travel/events/paro-tshechu",
+        "tickets": "https://book.bhutan.travel/paro-tshechu",
+        "contact": "tourism@bhutan.gov.bt"
+      },
+      "tags": ["mask dance", "religious", "unesco", "cultural heritage"],
+      "isFeatured": true,
+      "attendanceEstimate": 15000
+    },
+    {
+      "id": 2,
+      "name": "Thimphu Tshechu",
+      "type": "religious",
+      "date": "September 25-27, 2025",
+      "image": "../assets/img/festivals/thimphu-tshechu.jpg",
+      "location": {
+        "city": "Thimphu",
+        "dzongkhag": "Thimphu District",
+        "venue": "Tashichho Dzong",
+        "coordinates": {
+          "lat": 27.4924,
+          "lng": 89.6359
+        },
+        "address": "Tashichho Dzong, Thimphu, Bhutan"
+      },
+      "description": "The capital city's grandest religious festival showcasing Bhutan's living cultural heritage.",
+      "detailedDescription": [
+        "Thimphu Tshechu is the largest and most colorful festival in Bhutan's capital, drawing participants from across the country.",
+        "For three days, monks and laymen perform sacred mask dances that depict Buddhist teachings and historical events.",
+        "The festival serves both as a religious ceremony and social gathering, with locals dressed in their finest traditional attire."
+      ],
+      "historicalSignificance": {
+        "origin": "Established in 1867 by the 4th Temporal Ruler, Tenzin Rabgye",
+        "purpose": "To celebrate the deeds of Guru Padmasambhava",
+        "culturalImportance": "Recognized as a key event for preserving Bhutanese cultural identity"
+      },
+      "highlights": [
+        {
+          "title": "Dance of the Eight Manifestations",
+          "description": "Portrayal of Guru Rinpoche's eight forms",
+          "duration": "2 hours",
+          "significance": "Illustrates the guru's methods for subduing negative forces"
+        },
+        {
+          "title": "Night Market",
+          "description": "Festive market with food stalls and handicrafts",
+          "time": "Evenings throughout festival",
+          "items": [
+            "Traditional butter tea",
+            "Ema datshi (chili cheese dish)",
+            "Handwoven textiles"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "dressCode": "Smart casual. Traditional dress appreciated but not mandatory.",
+        "prohibitedItems": [
+          "Tobacco products",
+          "Plastic bottles",
+          "Large bags"
+        ],
+        "photographyTips": [
+          "Best lighting conditions in morning hours",
+          "Telephoto lens recommended for dance close-ups",
+          "Respect 'no photography' signs in certain areas"
+        ]
+      },
+      "transportation": {
+        "shuttleService": "Free festival shuttle buses from major hotels",
+        "taxiStand": "Designated area near Clock Tower Square",
+        "walkingRoutes": [
+          "From city center: 15 minute walk via pedestrian path",
+          "From Memorial Chorten: 25 minute scenic walk"
+        ]
+      },
+      "accommodation": [
+        {
+          "name": "Taj Tashi",
+          "type": "Luxury",
+          "specialPackage": "Festival Package including guided tour and premium seating",
+          "contact": "reservations@tajtashi.com"
+        },
+        {
+          "name": "Hotel Druk",
+          "type": "Mid-range",
+          "features": "Central location with Dzong views",
+          "priceRange": "$120-$250/night"
+        }
+      ],
+      "gallery": [
+        {
+          "url": "/images/thimphu-tshechu-1.jpg",
+          "caption": "Dance of the Heroes with Guru Rinpoche"
+        },
+        {
+          "url": "/images/thimphu-tshechu-2.jpg",
+          "caption": "Crowd in traditional dress watching performances"
+        }
+      ],
+      "officialLinks": {
+        "visaInfo": "https://www.bhutan.travel/visa",
+        "festivalHotline": "+975-2-323251"
+      },
+      "tags": ["capital city", "mask dance", "cultural performance"],
+      "isFeatured": true,
+      "attendanceEstimate": 25000
+    },
+   {
+  "id": 3,
+  "name": "Punakha Drubchen",
+  "type": "religious",
+  "date": "February 15-19, 2025",
+  "image": "../assets/img/festivals/punakha-drubchen.jpg",
+  "location": {
+    "city": "Punakha",
+    "dzongkhag": "Punakha District",
+    "venue": "Punakha Dzong",
+    "coordinates": {
+      "lat": 27.5819,
+      "lng": 89.8636
+    },
+    "address": "Punakha Dzong, Punakha, Bhutan"
+  },
+  "description": "Unique festival recreating 17th century battle scenes with traditional military exercises.",
+  "detailedDescription": [
+    "The Punakha Drubchen commemorates the victory over Tibetan invaders in the 17th century.",
+    "Villagers dressed as warriors stage mock battles to honor the bravery of Bhutanese soldiers.",
+    "It is a vibrant celebration of faith, patriotism, and history."
+  ],
+  "historicalSignificance": {
+    "origin": "Established in the 17th century by Zhabdrung Ngawang Namgyal",
+    "purpose": "To commemorate the Bhutanese victory against Tibetan forces",
+    "culturalImportance": "Demonstrates the unity of Bhutanese people and preservation of sovereignty"
+  },
+  "highlights": [
+    {
+      "title": "Historical Battle Reenactments",
+      "description": "Villagers perform mock battles depicting the 17th-century defense of Punakha."
+    },
+    {
+      "title": "Traditional Military Parade",
+      "description": "Procession of villagers in ancient warrior costumes."
+    },
+    {
+      "title": "Sacred Mask Dances",
+      "description": "Monks and laymen perform religious dances invoking blessings."
+    }
+  ],
+  "visitorInformation": {
+    "dressCode": "Smart casual or Bhutanese traditional attire recommended.",
+    "prohibitedItems": [
+      "Tobacco products",
+      "Plastic bottles",
+      "Drones without permission"
+    ],
+    "photographyTips": [
+      "Morning light offers the best photo opportunities.",
+      "Keep a respectful distance during the battle scenes.",
+      "Seek permission for close-up shots of performers."
+    ]
+  },
+  "transportation": {
+    "shuttleService": "Local hotels may offer festival shuttle service upon request.",
+    "taxiStand": "Near the Punakha Bridge",
+    "walkingRoutes": [
+      "From town center: 10–15 minutes walk along the river.",
+      "From Khuruthang: 30-minute scenic walk across the bridge."
+    ]
+  },
+  "accommodation": [
+    {
+      "name": "Dhensa Boutique Resort",
+      "type": "Luxury",
+      "specialPackage": "Festival package with guide and private seating",
+      "contact": "info@dhensa.com"
+    },
+    {
+      "name": "Zhingkham Resort",
+      "type": "Mid-range",
+      "features": "Panoramic views of Punakha Valley",
+      "priceRange": "$100–$200/night"
+    }
+  ],
+  "gallery": [
+    {
+      "url": "/images/punakha-drubchen-1.jpg",
+      "caption": "Warriors re-enacting battle scenes at Punakha Dzong"
+    },
+    {
+      "url": "/images/punakha-drubchen-2.jpg",
+      "caption": "Masked monks performing sacred dances"
+    }
+  ],
+  "officialLinks": {
+    "visaInfo": "https://www.bhutan.travel/visa",
+    "festivalHotline": "+975-2-584444"
+  },
+  "tags": ["warrior parade", "battle reenactment", "religious dance"],
+  "isFeatured": false,
+  "attendanceEstimate": 8000
+},
+    {
+  "id": 4,
+  "name": "Jambay Lhakhang Drup",
+  "type": "religious",
+  "date": "November 5-9, 2025",
+  "image": "../assets/img/festivals/jambay-lhakhang.jpg",
+  "location": {
+    "city": "Bumthang",
+    "dzongkhag": "Bumthang District",
+    "venue": "Jambay Lhakhang",
+    "address": "Jambay Lhakhang, Bumthang, Bhutan"
+  },
+  "description": "Spectacular fire ritual and naked dances at one of Bhutan's oldest temples.",
+  "detailedDescription": [
+    "Jambay Lhakhang Drup celebrates the consecration of the Jambay Temple, built in the 7th century.",
+    "The festival is famous for its sacred naked dance performed at midnight to bless infertile women.",
+    "The fire blessing ceremony attracts large crowds seeking purification and good fortune."
+  ],
+  "historicalSignificance": {
+    "origin": "Celebrated since the 7th century",
+    "purpose": "To honor Guru Padmasambhava and protect the temple",
+    "culturalImportance": "Preserves ancient rituals and community traditions"
+  },
+  "highlights": [
+    {
+      "title": "Mewang (Fire Blessing)",
+      "description": "People run under burning arches for blessings."
+    },
+    {
+      "title": "Tercham (Naked Dance)",
+      "description": "Performed at midnight as part of fertility rites."
+    },
+    {
+      "title": "Nighttime Mask Dances",
+      "description": "Unique masked dances performed under torchlight."
+    }
+  ],
+  "visitorInformation": {
+    "dressCode": "Warm clothing recommended; traditional attire appreciated.",
+    "prohibitedItems": ["Flash photography at night", "Loud conversations", "Tobacco"],
+    "photographyTips": [
+      "Low-light equipment recommended for night rituals.",
+      "Be discreet during Tercham."
+    ]
+  },
+  "transportation": {
+    "shuttleService": "Some guesthouses arrange transport upon request.",
+    "taxiStand": "Near Chamkhar Town",
+    "walkingRoutes": [
+      "From Chamkhar: 15-minute walk."
+    ]
+  },
+  "accommodation": [
+    {
+      "name": "Swiss Guest House",
+      "type": "Mid-range",
+      "features": "Charming rooms with traditional decor",
+      "priceRange": "$80–$120/night"
+    },
+    {
+      "name": "Yugharling Resort",
+      "type": "Luxury",
+      "specialPackage": "Festival package with guided tour",
+      "contact": "info@yugharling.com"
+    }
+  ],
+  "gallery": [
+    {
+      "url": "/images/jambay-lhakhang-1.jpg",
+      "caption": "Mewang fire blessing ceremony"
+    },
+    {
+      "url": "/images/jambay-lhakhang-2.jpg",
+      "caption": "Masked dancers at night"
+    }
+  ],
+  "officialLinks": {
+    "visaInfo": "https://www.bhutan.travel/visa",
+    "festivalHotline": "+975-3-631244"
+  },
+  "tags": ["fire ritual", "fertility", "night dances"],
+  "isFeatured": true,
+  "attendanceEstimate": 12000
+},
+    {
+  "id": 5,
+  "name": "Haa Summer Festival",
+  "type": "cultural",
+  "date": "July 10-12, 2025",
+  "image": "../assets/img/festivals/haa-summer.jpg",
+  "location": {
+    "city": "Haa",
+    "dzongkhag": "Haa District",
+    "venue": "Haa Valley",
+    "address": "Haa Valley, Bhutan"
+  },
+  "description": "Celebration of nomadic culture with traditional sports, dances and local cuisine.",
+  "detailedDescription": [
+    "The festival showcases the unique lifestyle of the nomadic herders of Haa.",
+    "Visitors can experience archery, horse-riding, and taste traditional dishes.",
+    "It’s a vibrant celebration of summer, nature, and highland life."
+  ],
+  "historicalSignificance": {
+    "origin": "Recent initiative to promote Haa’s cultural heritage",
+    "purpose": "To preserve and promote the nomadic culture",
+    "culturalImportance": "Supports sustainable tourism and cultural awareness"
+  },
+  "highlights": [
+    {
+      "title": "Traditional Archery",
+      "description": "Watch locals compete in Bhutan's national sport."
+    },
+    {
+      "title": "Horse Riding Displays",
+      "description": "Spectacular equestrian skills from the highlands."
+    },
+    {
+      "title": "Local Food Fair",
+      "description": "Sample yak cheese, buckwheat pancakes, and butter tea."
+    }
+  ],
+  "visitorInformation": {
+    "dressCode": "Casual, bring layers for cool weather.",
+    "prohibitedItems": ["Plastic waste", "Littering", "Unauthorized drones"],
+    "photographyTips": [
+      "Wide shots capture the scenic valley.",
+      "Ask locals before taking portraits."
+    ]
+  },
+  "transportation": {
+    "shuttleService": "Available from Paro hotels by prior booking.",
+    "taxiStand": "Near Haa Dzong",
+    "walkingRoutes": [
+      "Haa town to festival grounds: 10-minute walk."
+    ]
+  },
+  "accommodation": [
+    {
+      "name": "Soednam Zingkha Heritage Lodge",
+      "type": "Boutique",
+      "features": "Restored traditional farmhouse",
+      "priceRange": "$80–$150/night"
+    }
+  ],
+  "gallery": [
+    {
+      "url": "/images/haa-summer-1.jpg",
+      "caption": "Archery competition in the valley"
+    }
+  ],
+  "officialLinks": {
+    "visaInfo": "https://www.bhutan.travel/visa",
+    "festivalHotline": "+975-8-375344"
+  },
+  "tags": ["nomadic", "cultural sports", "food fair"],
+  "isFeatured": false,
+  "attendanceEstimate": 6000
+},
+    {
+  "id": 6,
+  "name": "Black-Necked Crane Festival",
+  "type": "cultural",
+  "date": "November 11, 2025",
+  "image": "../assets/img/festivals/crane-festival.jpg",
+  "location": {
+    "city": "Phobjikha",
+    "dzongkhag": "Wangdue Phodrang District",
+    "venue": "Gangtey Goemba Courtyard",
+    "address": "Phobjikha Valley, Bhutan"
+  },
+  "description": "Celebration of the endangered black-necked cranes that winter in Phobjikha Valley.",
+  "detailedDescription": [
+    "The festival raises awareness about conservation of the endangered black-necked cranes.",
+    "Local school children perform crane-themed dances.",
+    "The event combines conservation and cultural performances in a stunning natural setting."
+  ],
+  "historicalSignificance": {
+    "origin": "Started in 1998 by RSPN",
+    "purpose": "To promote conservation of black-necked cranes",
+    "culturalImportance": "Bridges environmental awareness with Bhutanese culture"
+  },
+  "highlights": [
+    {
+      "title": "Crane-Themed Mask Dances",
+      "description": "Monks perform dances imitating the graceful cranes."
+    },
+    {
+      "title": "Children's Performances",
+      "description": "School children sing and dance to honor the cranes."
+    },
+    {
+      "title": "Environmental Awareness",
+      "description": "Talks and exhibits about conservation efforts."
+    }
+  ],
+  "visitorInformation": {
+    "dressCode": "Warm clothes recommended, especially in the morning.",
+    "prohibitedItems": ["Disturbing the cranes", "Loud noises", "Littering"],
+    "photographyTips": [
+      "Bring binoculars and a telephoto lens for crane watching.",
+      "Avoid flash to not disturb the birds."
+    ]
+  },
+  "transportation": {
+    "shuttleService": "Available from Wangdue hotels.",
+    "taxiStand": "At valley entrance.",
+    "walkingRoutes": [
+      "From guesthouses: scenic trails to the festival site."
+    ]
+  },
+  "accommodation": [
+    {
+      "name": "Dewachen Hotel & Spa",
+      "type": "Mid-range",
+      "features": "Cozy rooms with valley views",
+      "priceRange": "$100–$150/night"
+    }
+  ],
+  "gallery": [
+    {
+      "url": "/images/crane-festival-1.jpg",
+      "caption": "Children performing crane dance"
+    }
+  ],
+  "officialLinks": {
+    "visaInfo": "https://www.bhutan.travel/visa",
+    "festivalHotline": "+975-2-323251"
+  },
+  "tags": ["conservation", "cultural performance", "wildlife"],
+  "isFeatured": true,
+  "attendanceEstimate": 5000
+},
+    {
+  "id": 7,
+  "name": "Tshechu Nimalung",
+  "type": "religious",
+  "date": "June 15-17, 2025",
+  "image": "../assets/img/festivals/nimalung-tshechu.jpg",
+  "location": {
+    "city": "Bumthang",
+    "dzongkhag": "Bumthang District",
+    "venue": "Nimalung Dratshang",
+    "address": "Nimalung Monastery, Bumthang, Bhutan"
+  },
+  "description": "Colorful festival featuring the famous Drametse Ngacham dances (UNESCO heritage).",
+  "detailedDescription": [
+    "The Nimalung Tshechu is known for its vibrant and rare regional dances.",
+    "The highlight is the Drametse Ngacham (mask drum dance), recognized by UNESCO.",
+    "Local markets and food stalls add to the festive atmosphere."
+  ],
+  "historicalSignificance": {
+    "origin": "Dates back to the 18th century",
+    "purpose": "To honor Guru Padmasambhava and protect the valley",
+    "culturalImportance": "Preserves UNESCO-inscribed dance traditions"
+  },
+  "highlights": [
+    {
+      "title": "Drametse Ngacham",
+      "description": "Fierce drum dance performed by monks."
+    },
+    {
+      "title": "Giant Thangka Unfurling",
+      "description": "Blessing ceremony with a sacred painting."
+    },
+    {
+      "title": "Handicraft Market",
+      "description": "Locally made textiles and crafts."
+    }
+  ],
+  "visitorInformation": {
+    "dressCode": "Traditional attire or modest clothing.",
+    "prohibitedItems": ["Tobacco", "Flash photography"],
+    "photographyTips": [
+      "Respect no-photo areas during rituals."
+    ]
+  },
+  "transportation": {
+    "shuttleService": "From Chamkhar town on festival days.",
+    "taxiStand": "At monastery entrance.",
+    "walkingRoutes": [
+      "Short hike from main road."
+    ]
+  },
+  "accommodation": [
+    {
+      "name": "Mountain Lodge",
+      "type": "Budget",
+      "features": "Simple and clean rooms",
+      "priceRange": "$50–$80/night"
+    }
+  ],
+  "gallery": [
+    {
+      "url": "/images/nimalung-tshechu-1.jpg",
+      "caption": "Drametse mask dancers"
+    }
+  ],
+  "officialLinks": {
+    "visaInfo": "https://www.bhutan.travel/visa"
+  },
+  "tags": ["UNESCO", "drum dance", "regional"],
+  "isFeatured": false,
+  "attendanceEstimate": 7000
+},
+   {
+  "id": 8,
+  "name": "Mongar Tshechu",
+  "type": "religious",
+  "date": "November 20-23, 2025",
+  "image": "../assets/img/festivals/mongar-tshechu.jpg",
+  "location": {
+    "city": "Mongar",
+    "dzongkhag": "Mongar District",
+    "venue": "Mongar Dzong",
+    "address": "Mongar Dzong, Mongar, Bhutan"
+  },
+  "description": "Eastern Bhutan's most important religious festival with unique regional dances.",
+  "detailedDescription": [
+    "The Mongar Tshechu showcases the distinct cultural traditions of eastern Bhutan.",
+    "Locals and visitors gather to witness rare regional mask dances and spiritual rituals.",
+    "The festival serves as an important social and religious event in the community."
+  ],
+  "historicalSignificance": {
+    "origin": "Established after the construction of Mongar Dzong in the 1930s",
+    "purpose": "To honor Guru Padmasambhava and protect the region from misfortune",
+    "culturalImportance": "Preserves unique eastern Bhutanese dance traditions"
+  },
+  "highlights": [
+    {
+      "title": "Regional Mask Dances",
+      "description": "Rare and unique to the Mongar region."
+    },
+    {
+      "title": "Ache Lhamo Dances",
+      "description": "Female performers enacting traditional plays."
+    },
+    {
+      "title": "Weaving Demonstrations",
+      "description": "Local women showcase intricate weaving techniques."
+    }
+  ],
+  "visitorInformation": {
+    "dressCode": "Bhutanese traditional dress recommended.",
+    "prohibitedItems": ["Smoking in the dzong", "Large bags", "Plastic waste"],
+    "photographyTips": [
+      "Early morning light is ideal.",
+      "Ask permission before photographing performers."
+    ]
+  },
+  "transportation": {
+    "shuttleService": "Available from hotels in Mongar town.",
+    "taxiStand": "Near Mongar town square.",
+    "walkingRoutes": [
+      "From town center: 5–10 minutes uphill walk."
+    ]
+  },
+  "accommodation": [
+    {
+      "name": "Wangchuk Hotel Mongar",
+      "type": "Mid-range",
+      "features": "Modern rooms with valley views",
+      "priceRange": "$90–$130/night"
+    }
+  ],
+  "gallery": [
+    {
+      "url": "/images/mongar-tshechu-1.jpg",
+      "caption": "Mask dancers in colorful attire"
+    }
+  ],
+  "officialLinks": {
+    "visaInfo": "https://www.bhutan.travel/visa"
+  },
+  "tags": ["eastern Bhutan", "unique dances", "weaving"],
+  "isFeatured": false,
+  "attendanceEstimate": 9000
+},{
+  "id": 9,
+  "name": "Ura Yakchoe",
+  "type": "religious",
+  "date": "May 10-14, 2025",
+  "image": "../assets/img/festivals/ura-yakchoe.jpg",
+  "location": {
+    "city": "Bumthang",
+    "dzongkhag": "Bumthang District",
+    "venue": "Ura Village",
+    "address": "Ura Village, Bumthang, Bhutan"
+  },
+  "description": "Unique festival centered around a sacred relic that is paraded through the village.",
+  "detailedDescription": [
+    "The Ura Yakchoe celebrates a sacred relic believed to have miraculous powers.",
+    "The relic is displayed to bless villagers and visitors.",
+    "Locals perform traditional dances and rituals during the festival."
+  ],
+  "historicalSignificance": {
+    "origin": "Dates back several centuries",
+    "purpose": "To honor the sacred relic and bless the valley",
+    "culturalImportance": "Preserves ancient community traditions of Ura"
+  },
+  "highlights": [
+    {
+      "title": "Sacred Relic Procession",
+      "description": "Relic displayed and carried around the village."
+    },
+    {
+      "title": "Community Dances",
+      "description": "Local villagers perform regional dances."
+    },
+    {
+      "title": "Handicraft Exhibitions",
+      "description": "Showcasing traditional crafts and textiles."
+    }
+  ],
+  "visitorInformation": {
+    "dressCode": "Warm, comfortable clothing recommended.",
+    "prohibitedItems": ["Touching the relic", "Loud behavior", "Tobacco"],
+    "photographyTips": [
+      "Respectful distance from the relic.",
+      "Capture the scenic backdrop of Ura village."
+    ]
+  },
+  "transportation": {
+    "shuttleService": "Not common; taxis available from Chamkhar.",
+    "taxiStand": "At village entrance.",
+    "walkingRoutes": [
+      "Explore the village on foot to enjoy the atmosphere."
+    ]
+  },
+  "accommodation": [
+    {
+      "name": "Ura Guesthouse",
+      "type": "Budget",
+      "features": "Basic but welcoming homestay experience",
+      "priceRange": "$30–$60/night"
+    }
+  ],
+  "gallery": [
+    {
+      "url": "/images/ura-yakchoe-1.jpg",
+      "caption": "Sacred relic being displayed"
+    }
+  ],
+  "officialLinks": {
+    "visaInfo": "https://www.bhutan.travel/visa"
+  },
+  "tags": ["sacred relic", "village festival", "blessing"],
+  "isFeatured": true,
+  "attendanceEstimate": 5000
+},
+   {
+  "id": 10,
+  "name": "Wangdue Tshechu",
+  "type": "religious",
+  "date": "September 15-17, 2025",
+  "image": "../assets/img/festivals/wangdue-tshechu.jpg",
+  "location": {
+    "city": "Wangdue Phodrang",
+    "dzongkhag": "Wangdue Phodrang District",
+    "venue": "Wangdue Phodrang Dzong",
+    "address": "Wangdue Dzong, Wangdue Phodrang, Bhutan"
+  },
+  "description": "Vibrant festival featuring rare mask dances unique to the region.",
+  "detailedDescription": [
+    "The Wangdue Tshechu is known for its distinctive dances and regional traditions.",
+    "The festival features sacred mask dances and colorful folk performances.",
+    "It also includes a lively local market selling food and crafts."
+  ],
+  "historicalSignificance": {
+    "origin": "Established in the 17th century by Zhabdrung Ngawang Namgyal",
+    "purpose": "To honor Guru Padmasambhava and bless the valley",
+    "culturalImportance": "Preserves rare mask dances and folk traditions"
+  },
+  "highlights": [
+    {
+      "title": "Rare Mask Dances",
+      "description": "Dances unique to Wangdue performed by monks and laymen."
+    },
+    {
+      "title": "Folk Performances",
+      "description": "Songs and dances from local villagers."
+    },
+    {
+      "title": "Food and Craft Market",
+      "description": "Vendors selling traditional foods, textiles, and crafts."
+    }
+  ],
+  "visitorInformation": {
+    "dressCode": "Bhutanese national dress preferred.",
+    "prohibitedItems": ["Tobacco", "Plastic bottles", "Unauthorized photography"],
+    "photographyTips": [
+      "Best time is during morning performances.",
+      "Avoid blocking pathways when photographing."
+    ]
+  },
+  "transportation": {
+    "shuttleService": "Available from Punakha and nearby hotels.",
+    "taxiStand": "Near festival ground.",
+    "walkingRoutes": [
+      "From town center: 15–20 minutes uphill walk."
+    ]
+  },
+  "accommodation": [
+    {
+      "name": "Hotel Pema Karpo",
+      "type": "Mid-range",
+      "features": "Comfortable rooms with river views",
+      "priceRange": "$70–$120/night"
+    }
+  ],
+  "gallery": [
+    {
+      "url": "/images/wangdue-tshechu-1.jpg",
+      "caption": "Monks performing rare mask dances"
+    }
+  ],
+  "officialLinks": {
+    "visaInfo": "https://www.bhutan.travel/visa"
+  },
+  "tags": ["rare dances", "folk music", "craft market"],
+  "isFeatured": false,
+  "attendanceEstimate": 8000
+}
+],
+  "destinations": [
+    {
+      "header": {
+        "backgroundImage": "../public/assets/img/destinations/thimphu.jpg",
+        "title": "Discover Thimphu",
+        "subtitle": "Experience the vibrant culture and serene beauty of Bhutan's capital.",
+        "ctaButtonText": "Explore More"
+      },
+      "location": "Thimphu",
+      "description": [
+        "Thimphu, the capital city of Bhutan, is a unique blend of tradition and modernity.",
+        "Nestled in the Himalayas, it offers breathtaking views and a peaceful environment.",
+        "The city is home to iconic landmarks like the Buddha Dordenma, Tashichho Dzong, and the National Memorial Chorten."
+      ],
+      "details": [
+        {
+          "title": "Best Time to Visit",
+          "description": "The ideal time to visit Thimphu is from March to May and September to November, when the weather is pleasant, and festivals are in full swing."
+        },
+        {
+          "title": "Cultural Highlights",
+          "description": "Thimphu is known for its rich cultural heritage, including traditional arts, crafts, and vibrant festivals like the Thimphu Tshechu."
+        },
+        {
+          "title": "Local Cuisine",
+          "description": "Don't miss out on Bhutanese delicacies like Ema Datshi, momos, and red rice served with spicy curries."
+        }
+      ],
+      "contact": {
+        "email": "info@thimphutourism.bt",
+        "phone": "+975-2-334455",
+        "whatsapp": "+975-17123456",
+        "messenger": "m.me/thimphutourism"
+      },
+      "attractions": [
+        {
+          "id": 1,
+          "title": "Buddha Point",
+          "rating": 4.6,
+          "reviewCount": 143430,
+          "description": "Observation Decks & Towers, Landmarks",
+          "image": "../public/assets/img/destinations/thimphu.jpg",
+          "category": "Family friendly",
+          "location": "Kuenselphodrang, Thimphu",
+          "highlights": [
+            "Tallest Buddha statue in the world",
+            "Panoramic view of Thimphu valley",
+            "Peaceful meditation site"
+          ],
+          "entryFee": "Free",
+          "bestTime": "Morning or Sunset",
+          "duration": "1-2 hours",
+          "isPopular": true,
+          "images": [
+            "/assets/img/buddhap.jpg",
+            "/assets/img/buddha-point-2.jpg",
+            "/assets/img/buddha-point-3.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Tashichho Dzong",
+          "rating": 4.7,
+          "reviewCount": 8921,
+          "description": "Fortress Monastery, Government Seat",
+          "image": "/assets/img/tashichho.jpg",
+          "category": "Cultural",
+          "location": "Central Thimphu",
+          "highlights": [
+            "Beautiful Bhutanese architecture",
+            "Seat of the government",
+            "Monastic quarters"
+          ],
+          "entryFee": "Nu. 300",
+          "bestTime": "Daytime",
+          "duration": "1-2 hours",
+          "isPopular": true,
+          "images": [
+            "/assets/img/tashichho.jpg",
+            "/assets/img/tashichho-2.jpg"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Changangkha Temple",
+          "rating": 4.8,
+          "reviewCount": 12000,
+          "description": "Religious & Cultural",
+          "image": "/assets/img/changangkha.jpg",
+          "category": "Religious & Cultural",
+          "location": "Thimphu",
+          "highlights": [
+            "12th century temple",
+            "Blessings for newborns",
+            "City views"
+          ],
+          "entryFee": "Free",
+          "bestTime": "Morning",
+          "duration": "1 hour",
+          "images": [
+            "/assets/img/changangkha.jpg",
+            "/assets/img/changangkha-2.jpg"
+          ]
+        },
+        {
+          "id": 8,
+          "title": "National Memorial Chorten",
+          "rating": 4.5,
+          "reviewCount": 7500,
+          "description": "Buddhist Stupa",
+          "image": "/assets/img/chorten.jpg",
+          "category": "Religious",
+          "location": "Thimphu City Center",
+          "highlights": [
+            "Built in memory of the third king",
+            "Local devotees circumambulating",
+            "Peaceful atmosphere"
+          ],
+          "entryFee": "Free",
+          "bestTime": "Morning or Evening",
+          "duration": "30-45 minutes",
+          "images": [
+            "/assets/img/chorten.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "header": {
+        "backgroundImage": "./assets/img/destinations/paro.jpg",
+        "title": "Discover Paro",
+        "subtitle": "A valley of history, beauty, and the iconic Tiger's Nest Monastery.",
+        "ctaButtonText": "Explore More"
+      },
+      "location": "Paro",
+      "description": [
+        "Paro is one of the most picturesque valleys in Bhutan and home to the country's only international airport.",
+        "It is famous for the Taktsang Monastery, also known as the Tiger's Nest, perched on a cliffside.",
+        "The valley is dotted with beautiful traditional farmhouses and historic sites."
+      ],
+      "details": [
+        {
+          "title": "Best Time to Visit",
+          "description": "Visit Paro in spring or autumn to enjoy pleasant weather and blooming rhododendrons."
+        },
+        {
+          "title": "Cultural Highlights",
+          "description": "Explore the Rinpung Dzong, the National Museum, and the iconic Taktsang Monastery."
+        },
+        {
+          "title": "Local Cuisine",
+          "description": "Try the delicious buckwheat pancakes and noodles that are a specialty in Paro."
+        }
+      ],
+      "contact": {
+        "email": "tourism@parovalley.bt",
+        "phone": "+975-8-223344",
+        "whatsapp": "+975-17234567",
+        "messenger": "m.me/parotourism"
+      },
+      "attractions": [
+        {
+          "id": 4,
+          "title": "Tiger's Nest Monastery",
+          "rating": 4.9,
+          "reviewCount": 25000,
+          "description": "Sacred Buddhist site",
+          "image": "/assets/img/tigers-nest.jpg",
+          "category": "Religious & Cultural",
+          "location": "Paro Valley",
+          "highlights": [
+            "Iconic cliffside monastery",
+            "Challenging hike with stunning views",
+            "Sacred pilgrimage site"
+          ],
+          "entryFee": "Nu. 1000",
+          "bestTime": "Early morning",
+          "duration": "4-5 hours",
+          "isPopular": true,
+          "images": [
+            "/assets/img/tigers-nest.jpg",
+            "/assets/img/tigers-nest-2.jpg"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Rinpung Dzong",
+          "rating": 4.5,
+          "reviewCount": 8500,
+          "description": "Fortress Monastery",
+          "image": "/assets/img/rinpung.jpg",
+          "category": "Cultural",
+          "location": "Paro Town",
+          "highlights": [
+            "Beautiful Bhutanese architecture",
+            "Annual Paro Tshechu festival",
+            "Historic wall paintings"
+          ],
+          "entryFee": "Nu. 300",
+          "bestTime": "Daytime",
+          "duration": "1-2 hours",
+          "isPopular": true,
+          "images": [
+            "/assets/img/rinpung.jpg"
+          ]
+        },
+        {
+          "id": 9,
+          "title": "National Museum of Bhutan",
+          "rating": 4.4,
+          "reviewCount": 6800,
+          "description": "Cultural Museum",
+          "image": "/assets/img/museum.jpg",
+          "category": "Cultural",
+          "location": "Paro",
+          "highlights": [
+            "Ancient artifacts collection",
+            "Traditional thangka paintings",
+            "Historical weapons display"
+          ],
+          "entryFee": "Nu. 200",
+          "bestTime": "Daytime",
+          "duration": "1-2 hours",
+          "images": [
+            "/assets/img/museum.jpg"
+          ]
+        },
+        {
+          "id": 10,
+          "title": "Drukgyel Dzong",
+          "rating": 4.3,
+          "reviewCount": 4200,
+          "description": "Historic Fortress",
+          "image": "/assets/img/drukgyel.jpg",
+          "category": "Historical",
+          "location": "Paro Valley",
+          "highlights": [
+            "16th century fortress",
+            "Views of Mount Jomolhari",
+            "UNESCO World Heritage Site"
+          ],
+          "entryFee": "Nu. 150",
+          "bestTime": "Daytime",
+          "duration": "1 hour",
+          "images": [
+            "/assets/img/drukgyel.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "header": {
+        "backgroundImage": "./assets/img/destinations/bumthang.jpg",
+        "title": "Discover Bumthang",
+        "subtitle": "The spiritual heartland of Bhutan with ancient temples and pristine valleys.",
+        "ctaButtonText": "Explore More"
+      },
+      "location": "Bumthang",
+      "description": [
+        "Bumthang is often referred to as the spiritual heartland of Bhutan with its many ancient temples and sacred sites.",
+        "The region consists of four beautiful valleys: Chokhor, Tang, Ura, and Chhume.",
+        "Bumthang is also famous for its production of honey, cheese, and apple products."
+      ],
+      "details": [
+        {
+          "title": "Best Time to Visit",
+          "description": "April to June and September to November offer pleasant weather and clear views."
+        },
+        {
+          "title": "Cultural Highlights",
+          "description": "Visit Jakar Dzong, Kurjey Lhakhang, and Jambay Lhakhang - some of Bhutan's most sacred sites."
+        },
+        {
+          "title": "Local Cuisine",
+          "description": "Try Bumthang's famous buckwheat pancakes, honey, and locally brewed beer."
+        }
+      ],
+      "contact": {
+        "email": "visit@bumthang.bt",
+        "phone": "+975-3-445566",
+        "whatsapp": "+975-17345678",
+        "messenger": "m.me/bumthangtourism"
+      },
+      "attractions": [
+        {
+          "id": 11,
+          "title": "Jakar Dzong",
+          "rating": 4.6,
+          "reviewCount": 7800,
+          "description": "Fortress of the White Bird",
+          "image": "/assets/img/jakar.jpg",
+          "category": "Cultural",
+          "location": "Bumthang Valley",
+          "highlights": [
+            "Largest dzong in Bhutan",
+            "Spectacular valley views",
+            "Administrative center of Bumthang"
+          ],
+          "entryFee": "Nu. 300",
+          "bestTime": "Daytime",
+          "duration": "1-2 hours",
+          "isPopular": true,
+          "images": [
+            "/assets/img/jakar.jpg"
+          ]
+        },
+        {
+          "id": 12,
+          "title": "Kurjey Lhakhang",
+          "rating": 4.7,
+          "reviewCount": 6500,
+          "description": "Sacred Temple Complex",
+          "image": "/assets/img/kurjey.jpg",
+          "category": "Religious",
+          "location": "Bumthang",
+          "highlights": [
+            "Imprint of Guru Rinpoche's body",
+            "Three temple complex",
+            "Sacred juniper tree"
+          ],
+          "entryFee": "Free",
+          "bestTime": "Morning",
+          "duration": "1 hour",
+          "isPopular": true,
+          "images": [
+            "/assets/img/kurjey.jpg"
+          ]
+        },
+        {
+          "id": 13,
+          "title": "Mebar Tsho (Burning Lake)",
+          "rating": 4.5,
+          "reviewCount": 5200,
+          "description": "Sacred Pilgrimage Site",
+          "image": "/assets/img/mebar.jpg",
+          "category": "Religious",
+          "location": "Tang Valley",
+          "highlights": [
+            "Where treasures were discovered",
+            "Deep spiritual significance",
+            "Beautiful forest setting"
+          ],
+          "entryFee": "Free",
+          "bestTime": "Daytime",
+          "duration": "30 minutes",
+          "images": [
+            "/assets/img/mebar.jpg"
+          ]
+        },
+        {
+          "id": 14,
+          "title": "Bumthang Cheese Factory",
+          "rating": 4.2,
+          "reviewCount": 3800,
+          "description": "Local Dairy Producer",
+          "image": "/assets/img/cheese.jpg",
+          "category": "Food & Culture",
+          "location": "Bumthang",
+          "highlights": [
+            "Swiss-style cheese production",
+            "Cheese tasting available",
+            "Local dairy products"
+          ],
+          "entryFee": "Free",
+          "bestTime": "Morning",
+          "duration": "30 minutes",
+          "images": [
+            "/assets/img/cheese.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "header": {
+        "backgroundImage": "./assets/img/destinations/punkha.jpg",
+        "title": "Discover Punakha",
+        "subtitle": "The ancient capital of Bhutan, famous for its majestic Dzong.",
+        "ctaButtonText": "Explore More"
+      },
+      "location": "Punakha",
+      "description": [
+        "Punakha is the ancient capital of Bhutan and remains the winter residence of the Central Monastic Body.",
+        "The Punakha Dzong, situated at the confluence of the Pho Chhu and Mo Chhu rivers, is a masterpiece of Bhutanese architecture.",
+        "Punakha is also known for its stunning landscapes and vibrant festivals."
+      ],
+      "details": [
+        {
+          "title": "Best Time to Visit",
+          "description": "Spring is the best time to visit, as the valley is in full bloom with jacaranda trees."
+        },
+        {
+          "title": "Cultural Highlights",
+          "description": "Witness the Punakha Tshechu festival and visit the Chimi Lhakhang, the temple of fertility."
+        },
+        {
+          "title": "Local Cuisine",
+          "description": "Enjoy dishes made from locally grown rice and fresh river fish."
+        }
+      ],
+      "contact": {
+        "email": "punakha@tourism.bt",
+        "phone": "+975-2-556677",
+        "whatsapp": "+975-17456789",
+        "messenger": "m.me/punakhatourism"
+      },
+      "attractions": [
+        {
+          "id": 6,
+          "title": "Punakha Dzong",
+          "rating": 4.8,
+          "reviewCount": 15000,
+          "description": "Fortress Monastery",
+          "image": "/assets/img/punakha-dzong.jpg",
+          "category": "Cultural",
+          "location": "Punakha Valley",
+          "highlights": [
+            "Most beautiful dzong in Bhutan",
+            "Located between two rivers",
+            "Winter seat of the Central Monastic Body"
+          ],
+          "entryFee": "Nu. 300",
+          "bestTime": "Morning",
+          "duration": "1-2 hours",
+          "isPopular": true,
+          "images": [
+            "/assets/img/punakha-dzong.jpg",
+            "/assets/img/punakha-dzong-2.jpg"
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Chimi Lhakhang",
+          "rating": 4.4,
+          "reviewCount": 7800,
+          "description": "Temple of Fertility",
+          "image": "/assets/img/chimi-lhakhang.jpg",
+          "category": "Religious & Cultural",
+          "location": "Punakha Valley",
+          "highlights": [
+            "Dedicated to the Divine Madman",
+            "Fertility blessings",
+            "Beautiful countryside walk"
+          ],
+          "entryFee": "Free",
+          "bestTime": "Daytime",
+          "duration": "1 hour",
+          "isPopular": true,
+          "images": [
+            "/assets/img/chimi-lhakhang.jpg"
+          ]
+        },
+        {
+          "id": 15,
+          "title": "Khamsum Yulley Namgyal Chorten",
+          "rating": 4.5,
+          "reviewCount": 4800,
+          "description": "Buddhist Stupa",
+          "image": "/assets/img/khamsum.jpg",
+          "category": "Religious",
+          "location": "Punakha Valley",
+          "highlights": [
+            "Beautiful hike through rice fields",
+            "Stunning architecture",
+            "Panoramic valley views"
+          ],
+          "entryFee": "Nu. 200",
+          "bestTime": "Morning",
+          "duration": "2-3 hours",
+          "images": [
+            "/assets/img/khamsum.jpg"
+          ]
+        },
+        {
+          "id": 16,
+          "title": "Sopsokha Village",
+          "rating": 4.3,
+          "reviewCount": 3500,
+          "description": "Traditional Village",
+          "image": "/assets/img/sopsokha.jpg",
+          "category": "Cultural",
+          "location": "Near Punakha",
+          "highlights": [
+            "Famous phallus paintings",
+            "Traditional Bhutanese houses",
+            "Local handicrafts"
+          ],
+          "entryFee": "Free",
+          "bestTime": "Daytime",
+          "duration": "1 hour",
+          "images": [
+            "/assets/img/sopsokha.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "header": {
+        "backgroundImage": "./assets/img/destinations/gangtey.jpg",
+        "title": "Discover Gangtey",
+        "subtitle": "The beautiful Phobjikha Valley and its rare black-necked cranes.",
+        "ctaButtonText": "Explore More"
+      },
+      "location": "Gangtey",
+      "description": [
+        "Gangtey is home to the breathtaking Phobjikha Valley, one of Bhutan's most beautiful glacial valleys.",
+        "The valley is the winter home of the rare black-necked cranes that migrate from Tibet.",
+        "Gangtey offers stunning landscapes, nature trails, and the impressive Gangtey Monastery."
+      ],
+      "details": [
+        {
+          "title": "Best Time to Visit",
+          "description": "October to February to see the black-necked cranes, or April to June for pleasant weather."
+        },
+        {
+          "title": "Cultural Highlights",
+          "description": "Visit the Gangtey Monastery and the Crane Information Center to learn about conservation efforts."
+        },
+        {
+          "title": "Local Cuisine",
+          "description": "Try local specialties like buckwheat noodles and pancakes, and the valley's famous potatoes."
+        }
+      ],
+      "contact": {
+        "email": "gangtey@nature.bt",
+        "phone": "+975-5-667788",
+        "whatsapp": "+975-17567890",
+        "messenger": "m.me/gangteyvalley"
+      },
+      "attractions": [
+        {
+          "id": 17,
+          "title": "Gangtey Monastery",
+          "rating": 4.6,
+          "reviewCount": 5800,
+          "description": "Buddhist Monastery",
+          "image": "/assets/img/gangtey-goenpa.jpg",
+          "category": "Religious",
+          "location": "Phobjikha Valley",
+          "highlights": [
+            "One of Bhutan's most important monasteries",
+            "Stunning valley views",
+            "Nyingma school of Buddhism"
+          ],
+          "entryFee": "Nu. 200",
+          "bestTime": "Morning",
+          "duration": "1 hour",
+          "isPopular": true,
+          "images": [
+            "/assets/img/gangtey-goenpa.jpg"
+          ]
+        },
+        {
+          "id": 18,
+          "title": "Phobjikha Valley",
+          "rating": 4.8,
+          "reviewCount": 8900,
+          "description": "Glacial Valley",
+          "image": "/assets/img/phobjikha.jpg",
+          "category": "Nature",
+          "location": "Gangtey",
+          "highlights": [
+            "Winter home of black-necked cranes",
+            "Beautiful nature trails",
+            "Protected conservation area"
+          ],
+          "entryFee": "Free",
+          "bestTime": "October-February",
+          "duration": "2-3 hours",
+          "isPopular": true,
+          "images": [
+            "/assets/img/phobjikha.jpg"
+          ]
+        },
+        {
+          "id": 19,
+          "title": "Black-Necked Crane Center",
+          "rating": 4.4,
+          "reviewCount": 4200,
+          "description": "Wildlife Conservation",
+          "image": "/assets/img/crane-center.jpg",
+          "category": "Nature",
+          "location": "Phobjikha Valley",
+          "highlights": [
+            "Learn about crane conservation",
+            "Observation deck for crane viewing",
+            "Interactive exhibits"
+          ],
+          "entryFee": "Nu. 100",
+          "bestTime": "November-January",
+          "duration": "1 hour",
+          "images": [
+            "/assets/img/crane-center.jpg"
+          ]
+        },
+        {
+          "id": 20,
+          "title": "Gangtey Nature Trail",
+          "rating": 4.7,
+          "reviewCount": 6500,
+          "description": "Scenic Hike",
+          "image": "/assets/img/gangtey-trail.jpg",
+          "category": "Nature",
+          "location": "Phobjikha Valley",
+          "highlights": [
+            "Beautiful 2-3 hour walk",
+            "Views of the entire valley",
+            "Passes through forests and villages"
+          ],
+          "entryFee": "Free",
+          "bestTime": "Daytime",
+          "duration": "2-3 hours",
+          "images": [
+            "/assets/img/gangtey-trail.jpg"
+          ]
+        }
+      ]
+    }
+  ],
+  "offers": [
+    {
+      "id": "hotel-1",
+      "type": "hotel",
+      "img": "../assets/img/blog/six senses.jpg",
+      "label": "Mountain View Resort",
+      "details": {
+        "name": "Accommodation",
+        "location": "Paro,Thimphu,Punakha, Bhutan",
+        "description": "Luxurious resort offering panoramic Himalayan views with traditional Bhutanese architecture and modern amenities.Six Senses hotel in Bhutan offers 82 spacious villas and suites, starting from 645 square feet indoors for the suites and up to 3,681 square feet indoors for the three-bedroom villas.",
+        "images": [
+          "../assets/img/blog/6senses.jpg",
+          "../assets/img/blog/bath.png"
+        ],
+        "rating": 4.8,
+        "facilities": ["Traditional wood-burning bukhari stove", "Unlimited WiFi", "Bathtub, rain shower and toilet, ","Tea and coffee making facilities"],
+        "rooms": [
+          {
+            "type": "Deluxe Room",
+            "price": 320,
+            "amenities": ["King Bed", "Mountain View", "Private Balcony"]
+          }
+        ],
+        "contact": "+975-8-271-999"
+      }
+    },
+    {
+      "id": "hotel-2",
+      "type": "hotel",
+      "img": "../assets/img/blog/luxury.jpg",
+      "label": "Riverside Retreat",
+      "details": {
+        "name": "&Beyond Punakha River Lodge",
+        "location": "Punakha, Bhutan",
+        "description": "estled in the lush Punakha Valley  and framed by forested hills and distant Himalaya peaks, &Beyond Punakha River Lodge is Bhutan, distilled. With just six canvas and wood suites, a private River House, and a spacious Family Suite, the lodge blends handcrafted Bhutanese design with quiet elegance. As &Beyond's first fully owned lodge in Asia, it brings our signature care and light-footprint luxury to the last Himalayan kingdom.",
+        "images": [
+          "../assets/img/blog/river.png",
+          "../assets/img/blog/river room.png"
+        ],
+        "rating": 4.6,
+        "facilities": ["River View Restaurant", "Organic Garden", "Bicycle Rental"],
+        "rooms": [
+          {
+            "type": "River View Room",
+            "price": 280,
+            "amenities": ["Queen Bed", "Handcrafted Furniture"]
+          }
+        ],
+        "contact": "+975-2-584-777"
+      }
+    },
+    {
+      "id": "restaurant-1",
+      "type": "restaurant",
+      "img": "../assets/img/blog/cuisine.jpg",
+      "label": "Bhutanese Flavors",
+      "details": {
+        "name": "Bhutanese Flavors",
+        "cuisine": "Authentic Bhutanese",
+        "description": "Traditional Bhutanese cuisine with family recipes passed down for generations.Ema Datshi. 'Datshi' in the Bhutanese language of Dzongkha means 'cheese', which is what they use in a number of dishes, as Ema Datshi is the national dish of Bhutan",
+        "images": [
+          "../assets/img/blog/ema.jpg",
+          "../assets/img/blog/shakma.jpg"
+        ],
+        "rating": 4.7,
+        "openingHours": "11:00 AM - 9:30 PM (Closed Sundays)",
+        "signatureDishes": ["Ema Datshi", "Shakam Paa"],
+        "priceRange": "$6",
+        "contact": "+975-1700000"
+      }
+    },
+    {
+      "id": "restaurant-2",
+      "type": "restaurant",
+      "img": "../assets/img/blog/bhutanfoodblog.jpg",
+      "label": "Himalayan Fusion",
+      "details": {
+        "name": "Himalayan Fusion Bistro",
+        "cuisine": "Bhutanese-International",
+        "description": "Momos are a type of steamed filled dumpling, It's essentially a small, dough-based pocket filled with meat, vegetables, or cheese, and traditionally cooked by steaming.  ",
+        "images": [
+          "../assets/img/blog/m.jpg",
+          "../assets/img/blog/Bhutan-Momos.jpg"
+        ],
+        "rating": 4.5,
+        "signatureDishes": ["Momo(dumpling)", "Mushroom Kewa Datshi"],
+        "priceRange": "$$$",
+        "contact": "+975-2-345-678"
+      }
+    }
+  ],
+  "blogs": [
+    {
+      "id": "blog-1",
+      "img": "../assets/img/blog/phajoding.jpg",
+      "title": "Phajoding Trek Guide",
+      "content": "Complete guide to the sacred Phajoding trek near Thimphu with monastery visits.",
+      "date": "May 15, 2025",
+      "details": {
+        "fullContent": "The 5-6 hour Phajoding Trek takes you through rhododendron forests to sacred monasteries at 3,700m altitude, offering spectacular valley views. Best visited March-November.",
+        "images": [
+          "../assets/img/blog/phajo.jpeg"
+        ],
+        "difficulty": "Moderate",
+        "distance": "8 km"
+      }
+    },
+    {
+      "id": "blog-2",
+      "img": "../assets/img/blog/festival/Bumthang-Nimalung-Techu-Amedewa-Tours-And-Ttrek.jpg",
+      "title": "Nimalung Tshechu, Bumthang",
+      "content": "Experience Bhutan's vibrant religious festivals with masked dances.",
+      "date": "Jul 03, 2025",
+      "details": {
+        "fullContent": "Nestled in the serene landscapes of Bhutan, amidst the majestic Himalayas, lies a hidden gem of cultural celebration known as the Nimalung Tshechu. This vibrant festival, deeply rooted in Bhutanese tradition and spirituality, offers a captivating glimpse into the rich cultural heritage of the kingdom. The Nimalung Tshechu is held at the Nimalung Monastery, which is located in the Chumey Valley of the Bumthang district in Bhutan.",
+        "images": [
+          "../assets/img/blog/festival/Bumthang-Nimalung-Techu-Amedewa-Tours-And-Ttrek.jpg"
+        ],
+        "bestFestivals": ["Paro Tshechu (Spring)", "Thimphu Tshechu (Fall)"]
+      }
+    },
+    {
+      "id": "blog-3",
+      "img": "../assets/img/blog/festival/Bhutanese-Arts-and-Crafts-1-1.jpg",
+      "title": "Bhutanese Crafts",
+      "content": "Exploring the 13 traditional arts and crafts of Bhutan.",
+      "date": "June 10, 2023",
+      "details": {
+        "fullContent": "The 13 traditional arts and crafts of Bhutan, known as 'Zorig Chusum', are a cornerstone of Bhutanese culture and identity.hese practices, which have been passed down through generations, include carpentry, masonry, carving, painting, sculpting, bronze casting, blacksmithing, ornament making, bamboo and cane work, weaving, tailoring and embroidery, woodturning, and paper making. ",
+        "images": [
+          "../assets/img/blog/festival/paint.jpg"
+        ],
+        "topCrafts": ["Textiles", "Thanka Paintings", "Bamboo Products"]
+      }
+    }
+  ]
+}

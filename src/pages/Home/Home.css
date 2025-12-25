@@ -1,0 +1,32 @@
+
+.package-item img {
+    width: 100%; /* Ensures the image fills the container's width */
+    height: 300px; /* Set a consistent height */
+    object-fit: cover; /* Ensures the image scales to fill the container without distortion */
+    border-radius: 10px; /* Optional: rounded corners for a consistent look */
+  }
+  
+/* Animation */
+@keyframes slideInDown {
+    0% {
+        transform: translateY(-50px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+/*** Destination ***/
+.destination img {
+    width: 100%; /* Ensures the image fills the container's width */
+    height: 300px; /* Set a consistent height */
+    object-fit: cover; /* Ensures the image scales to fill the container without distortion */
+    border-radius: 10px;    
+    transition: .5s;
+}
+
+.destination a:hover img {
+    transform: scale(1.1);
+}

@@ -1,0 +1,392 @@
+{
+  "destinations":[
+  {
+    "header": {
+      "backgroundImage": "../public/assets/img/destinations/thimphu.jpg",
+      "title": "Discover Thimphu",
+      "subtitle": "Experience the vibrant culture and serene beauty of Bhutan's capital.",
+      "ctaButtonText": "Explore More"
+    },
+    "location": "Thimphu",
+    "description": [
+      "Thimphu, the capital city of Bhutan, is a unique blend of tradition and modernity.",
+      "Nestled in the Himalayas, it offers breathtaking views and a peaceful environment.",
+      "The city is home to iconic landmarks like the Buddha Dordenma, Tashichho Dzong, and the National Memorial Chorten."
+    ],
+    "details": [
+      {
+        "title": "Best Time to Visit",
+        "description": "The ideal time to visit Thimphu is from March to May and September to November, when the weather is pleasant, and festivals are in full swing."
+      },
+      {
+        "title": "Cultural Highlights",
+        "description": "Thimphu is known for its rich cultural heritage, including traditional arts, crafts, and vibrant festivals like the Thimphu Tshechu."
+      },
+      {
+        "title": "Local Cuisine",
+        "description": "Don't miss out on Bhutanese delicacies like Ema Datshi, momos, and red rice served with spicy curries."
+      }
+    ],
+    "attractions": [
+      {
+        "id": 1,
+        "title": "Buddha Point",
+        "rating": 4.6,
+        "reviewCount": 143430,
+        "description": "Observation Decks & Towers, Landmarks",
+        "image": "../public/assets/img/destinations/thimphu.jpg",
+        "category": "Family friendly",
+        "location": "Kuenselphodrang, Thimphu",
+        "highlights": [
+          "Tallest Buddha statue in the world",
+          "Panoramic view of Thimphu valley",
+          "Peaceful meditation site"
+        ],
+        "entryFee": "Free",
+        "bestTime": "Morning or Sunset",
+        "duration": "1-2 hours",
+        "images": [
+          "/assets/img/buddhap.jpg",
+          "/assets/img/buddha-point-2.jpg",
+          "/assets/img/buddha-point-3.jpg"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Tashichho Dzong",
+        "rating": 4.7,
+        "reviewCount": 8921,
+        "description": "Fortress Monastery, Government Seat",
+        "image": "/assets/img/tashichho.jpg",
+        "category": "Cultural",
+        "location": "Central Thimphu",
+        "highlights": [
+          "Beautiful Bhutanese architecture",
+          "Seat of the government",
+          "Monastic quarters"
+        ],
+        "entryFee": "Nu. 300",
+        "bestTime": "Daytime",
+        "duration": "1-2 hours",
+        "images": [
+          "/assets/img/tashichho.jpg",
+          "/assets/img/tashichho-2.jpg"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Changangkha Temple",
+        "rating": 4.8,
+        "reviewCount": 12000,
+        "description": "Religious & Cultural",
+        "image": "/assets/img/changangkha.jpg",
+        "category": "Religious & Cultural",
+        "location": "Thimphu",
+        "highlights": [
+          "12th century temple",
+          "Blessings for newborns",
+          "City views"
+        ],
+        "entryFee": "Free",
+        "bestTime": "Morning",
+        "duration": "1 hour",
+        "images": [
+          "/assets/img/changangkha.jpg",
+          "/assets/img/changangkha-2.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "header": {
+      "backgroundImage": "./assets/img/destinations/paro.jpg",
+      "title": "Discover Paro",
+      "subtitle": "A valley of history, beauty, and the iconic Tiger's Nest Monastery.",
+      "ctaButtonText": "Explore More"
+    },
+    "location": "Paro",
+    "description": [
+      "Paro is one of the most picturesque valleys in Bhutan and home to the country's only international airport.",
+      "It is famous for the Taktsang Monastery, also known as the Tiger's Nest, perched on a cliffside.",
+      "The valley is dotted with beautiful traditional farmhouses and historic sites."
+    ],
+    "details": [
+      {
+        "title": "Best Time to Visit",
+        "description": "Visit Paro in spring or autumn to enjoy pleasant weather and blooming rhododendrons."
+      },
+      {
+        "title": "Cultural Highlights",
+        "description": "Explore the Rinpung Dzong, the National Museum, and the iconic Taktsang Monastery."
+      },
+      {
+        "title": "Local Cuisine",
+        "description": "Try the delicious buckwheat pancakes and noodles that are a specialty in Paro."
+      }
+    ],
+    "attractions": [
+      {
+        "id": 4,
+        "title": "Tiger's Nest Monastery",
+        "rating": 4.9,
+        "reviewCount": 25000,
+        "description": "Sacred Buddhist site",
+        "image": "/assets/img/tigers-nest.jpg",
+        "category": "Religious & Cultural",
+        "location": "Paro Valley",
+        "highlights": [
+          "Iconic cliffside monastery",
+          "Challenging hike with stunning views",
+          "Sacred pilgrimage site"
+        ],
+        "entryFee": "Nu. 1000",
+        "bestTime": "Early morning",
+        "duration": "4-5 hours",
+        "images": [
+          "/assets/img/tigers-nest.jpg",
+          "/assets/img/tigers-nest-2.jpg"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Rinpung Dzong",
+        "rating": 4.5,
+        "reviewCount": 8500,
+        "description": "Fortress Monastery",
+        "image": "/assets/img/rinpung.jpg",
+        "category": "Cultural",
+        "location": "Paro Town",
+        "highlights": [
+          "Beautiful Bhutanese architecture",
+          "Annual Paro Tshechu festival",
+          "Historic wall paintings"
+        ],
+        "entryFee": "Nu. 300",
+        "bestTime": "Daytime",
+        "duration": "1-2 hours",
+        "images": [
+          "/assets/img/rinpung.jpg"
+        ]
+      }
+    ]
+  },
+    {
+    "header": {
+      "backgroundImage": "./assets/img/destinations/paro.jpg",
+      "title": "Discover Gangtey",
+      "subtitle": "A valley of history, beauty, and the iconic Tiger's Nest Monastery.",
+      "ctaButtonText": "Explore More"
+    },
+    "location": "Gantay",
+    "description": [
+      "Gantay is one of the most picturesque valleys in Bhutan and home to the country's only international airport.",
+      "It is famous for the Taktsang Monastery, also known as the Tiger's Nest, perched on a cliffside.",
+      "The valley is dotted with beautiful traditional farmhouses and historic sites."
+    ],
+    "details": [
+      {
+        "title": "Best Time to Visit",
+        "description": "Visit Paro in spring or autumn to enjoy pleasant weather and blooming rhododendrons."
+      },
+      {
+        "title": "Cultural Highlights",
+        "description": "Explore the Rinpung Dzong, the National Museum, and the iconic Taktsang Monastery."
+      },
+      {
+        "title": "Local Cuisine",
+        "description": "Try the delicious buckwheat pancakes and noodles that are a specialty in Paro."
+      }
+    ],
+    "attractions": [
+      {
+        "id": 4,
+        "title": "Tiger's Nest Monastery",
+        "rating": 4.9,
+        "reviewCount": 25000,
+        "description": "Sacred Buddhist site",
+        "image": "/assets/img/tigers-nest.jpg",
+        "category": "Religious & Cultural",
+        "location": "Paro Valley",
+        "highlights": [
+          "Iconic cliffside monastery",
+          "Challenging hike with stunning views",
+          "Sacred pilgrimage site"
+        ],
+        "entryFee": "Nu. 1000",
+        "bestTime": "Early morning",
+        "duration": "4-5 hours",
+        "images": [
+          "/assets/img/tigers-nest.jpg",
+          "/assets/img/tigers-nest-2.jpg"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Rinpung Dzong",
+        "rating": 4.5,
+        "reviewCount": 8500,
+        "description": "Fortress Monastery",
+        "image": "/assets/img/rinpung.jpg",
+        "category": "Cultural",
+        "location": "Paro Town",
+        "highlights": [
+          "Beautiful Bhutanese architecture",
+          "Annual Paro Tshechu festival",
+          "Historic wall paintings"
+        ],
+        "entryFee": "Nu. 300",
+        "bestTime": "Daytime",
+        "duration": "1-2 hours",
+        "images": [
+          "/assets/img/rinpung.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "header": {
+      "backgroundImage": "./assets/img/destinations/paro.jpg",
+      "title": "Discover Gangtey",
+      "subtitle": "A valley of history, beauty, and the iconic Tiger's Nest Monastery.",
+      "ctaButtonText": "Explore More"
+    },
+    "location": "Gantay",
+    "description": [
+      "Gantay is one of the most picturesque valleys in Bhutan and home to the country's only international airport.",
+      "It is famous for the Taktsang Monastery, also known as the Tiger's Nest, perched on a cliffside.",
+      "The valley is dotted with beautiful traditional farmhouses and historic sites."
+    ],
+    "details": [
+      {
+        "title": "Best Time to Visit",
+        "description": "Visit Paro in spring or autumn to enjoy pleasant weather and blooming rhododendrons."
+      },
+      {
+        "title": "Cultural Highlights",
+        "description": "Explore the Rinpung Dzong, the National Museum, and the iconic Taktsang Monastery."
+      },
+      {
+        "title": "Local Cuisine",
+        "description": "Try the delicious buckwheat pancakes and noodles that are a specialty in Paro."
+      }
+    ],
+    "attractions": [
+      {
+        "id": 4,
+        "title": "Tiger's Nest Monastery",
+        "rating": 4.9,
+        "reviewCount": 25000,
+        "description": "Sacred Buddhist site",
+        "image": "/assets/img/tigers-nest.jpg",
+        "category": "Religious & Cultural",
+        "location": "Paro Valley",
+        "highlights": [
+          "Iconic cliffside monastery",
+          "Challenging hike with stunning views",
+          "Sacred pilgrimage site"
+        ],
+        "entryFee": "Nu. 1000",
+        "bestTime": "Early morning",
+        "duration": "4-5 hours",
+        "images": [
+          "/assets/img/tigers-nest.jpg",
+          "/assets/img/tigers-nest-2.jpg"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Rinpung Dzong",
+        "rating": 4.5,
+        "reviewCount": 8500,
+        "description": "Fortress Monastery",
+        "image": "/assets/img/rinpung.jpg",
+        "category": "Cultural",
+        "location": "Paro Town",
+        "highlights": [
+          "Beautiful Bhutanese architecture",
+          "Annual Paro Tshechu festival",
+          "Historic wall paintings"
+        ],
+        "entryFee": "Nu. 300",
+        "bestTime": "Daytime",
+        "duration": "1-2 hours",
+        "images": [
+          "/assets/img/rinpung.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "header": {
+      "backgroundImage": "./assets/img/destinations/punkha.jpg",
+      "title": "Discover Punakha",
+      "subtitle": "The ancient capital of Bhutan, famous for its majestic Dzong.",
+      "ctaButtonText": "Explore More"
+    },
+    "location": "Punakha",
+    "description": [
+      "Punakha is the ancient capital of Bhutan and remains the winter residence of the Central Monastic Body.",
+      "The Punakha Dzong, situated at the confluence of the Pho Chhu and Mo Chhu rivers, is a masterpiece of Bhutanese architecture.",
+      "Punakha is also known for its stunning landscapes and vibrant festivals."
+    ],
+    "details": [
+      {
+        "title": "Best Time to Visit",
+        "description": "Spring is the best time to visit, as the valley is in full bloom with jacaranda trees."
+      },
+      {
+        "title": "Cultural Highlights",
+        "description": "Witness the Punakha Tshechu festival and visit the Chimi Lhakhang, the temple of fertility."
+      },
+      {
+        "title": "Local Cuisine",
+        "description": "Enjoy dishes made from locally grown rice and fresh river fish."
+      }
+    ],
+    "attractions": [
+      {
+        "id": 6,
+        "title": "Punakha Dzong",
+        "rating": 4.8,
+        "reviewCount": 15000,
+        "description": "Fortress Monastery",
+        "image": "/assets/img/punakha-dzong.jpg",
+        "category": "Cultural",
+        "location": "Punakha Valley",
+        "highlights": [
+          "Most beautiful dzong in Bhutan",
+          "Located between two rivers",
+          "Winter seat of the Central Monastic Body"
+        ],
+        "entryFee": "Nu. 300",
+        "bestTime": "Morning",
+        "duration": "1-2 hours",
+        "images": [
+          "/assets/img/punakha-dzong.jpg",
+          "/assets/img/punakha-dzong-2.jpg"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Chimi Lhakhang",
+        "rating": 4.4,
+        "reviewCount": 7800,
+        "description": "Temple of Fertility",
+        "image": "/assets/img/chimi-lhakhang.jpg",
+        "category": "Religious & Cultural",
+        "location": "Punakha Valley",
+        "highlights": [
+          "Dedicated to the Divine Madman",
+          "Fertility blessings",
+          "Beautiful countryside walk"
+        ],
+        "entryFee": "Free",
+        "bestTime": "Daytime",
+        "duration": "1 hour",
+        "images": [
+          "/assets/img/chimi-lhakhang.jpg"
+        ]
+      }
+    ]
+  }
+]}

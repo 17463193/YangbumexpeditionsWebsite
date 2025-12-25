@@ -1,0 +1,70 @@
+/* Apply overall styling to the page */
+.terms-container {
+    max-width: 1200px;
+    margin:  120px auto;
+    padding: 30px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    color: #333;
+  }
+  
+  /* Add styling for the title */
+  .terms-container h1 {
+    text-align: left;
+    font-size: 2.5rem;
+    color: #ff4d4d;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+  }
+  
+  /* Styling for all headers */
+  .terms-container h2 {
+    font-size: 1.5rem;
+    color:  #ff4d4d;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  /* Styling for paragraphs */
+  .terms-container p {
+    line-height: 1.7;
+    font-size: 1rem;
+    margin-bottom: 15px;
+  }
+  
+  /* Styling for links */
+  .terms-container a {
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .terms-container a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Add spacing between sections */
+  .terms-container p:first-of-type {
+    margin-top: 10px;
+  }
+  
+  /* Add padding and responsiveness to the page */
+  @media (max-width: 768px) {
+    .terms-container {
+      padding: 20px;
+    }
+  
+    .terms-container h1 {
+      font-size: 2rem;
+    }
+  
+    .terms-container h2 {
+      font-size: 1.3rem;
+    }
+  
+    .terms-container p {
+      font-size: 0.9rem;
+    }
+  }
+  

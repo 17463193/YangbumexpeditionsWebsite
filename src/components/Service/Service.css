@@ -1,0 +1,162 @@
+/* Services.css */
+
+#services {
+  position: relative;
+  background-image: url('../assets/img/hotelp.jpg'); /* Put your image in public/images/ */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* Optional parallax effect */
+  color: white;
+  padding: 4rem 0;
+  overflow: hidden;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Dark overlay to improve text visibility */
+#services::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: 0;
+}
+
+/* Make sure container content is above the overlay */
+#services > .container {
+  position: relative;
+  z-index: 1;
+}
+
+/* Title wrapper */
+.title-wrap {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.sm-title {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: rgb(255, 255, 255);
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.lg-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 0;
+  position: relative;
+}
+
+/* Optional underline below large title */
+.lg-title::after {
+  content: "";
+  display: block;
+  width: 150px;
+  height: 4px;
+  background-color: rgb(252, 251, 251);
+  margin: 1rem auto 0;
+  border-radius: 2px;
+}
+
+/* Services row */
+.services-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+/* Each service item */
+.services-item {
+  background: rgba(255, 255, 255, 0.15);
+  flex: 1 1 30%;
+  min-width: 280px;
+  padding: 2rem 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+/* Hover effect */
+.services-item:hover {
+  transform: translateY(-8px);
+  
+}
+
+/* Icon styling */
+.services-icon {
+  font-size: 3.5rem;
+  color: rgb(248, 247, 247);
+  margin-bottom: 1.2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  /* background-color: rgba(255, 255, 255, 0.1); */
+  transition: background-color 0.3s ease;
+}
+
+
+
+/* Service title */
+.services-item h3 {
+  color: aliceblue;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+/* Description text */
+.text {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-bottom: 1.5rem;
+  color: #e0e0e0;
+}
+
+/* Button */
+.btn {
+  display: inline-block;
+  padding: 0.6rem 1.5rem;
+  background-color: rgb(131, 23, 23);
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+ 
+}
+
+.btn:hover {
+  box-shadow:#000;
+}
+
+/* Responsive */
+@media (max-width: 992px) {
+  .services-row {
+    justify-content: center;
+  }
+  .services-item {
+    flex: 1 1 45%;
+    max-width: 45%;
+  }
+}
+
+@media (max-width: 576px) {
+  .services-item {
+    flex: 1 1 100%;
+    max-width: 100%;
+  }
+}

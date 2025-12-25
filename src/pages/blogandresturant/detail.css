@@ -1,0 +1,131 @@
+/* Container Styling */
+.dp-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 2rem;
+    font-family: 'Segoe UI', sans-serif;
+    color: #333;
+  }
+  
+  /* Header */
+  .dp-header {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .dp-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #1a1a1a;
+    padding-top: 40px;
+  }
+  
+  .dp-subtitle {
+    font-size: 1.2rem;
+    color: #666;
+    margin-top: 0.5rem;
+  }
+  
+  /* Image Gallery */
+  .dp-gallery {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .dp-gallery-item {
+    margin: 0;
+  }
+  
+  .dp-gallery-img {
+    width: 100%;
+    border-radius: 8px;
+    object-fit: cover;
+  }
+  
+  /* About Section */
+  .dp-section-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #14532d;
+    margin-bottom: 0.5rem;
+    border-bottom: 2px solid #e0e0e0;
+    padding-bottom: 0.4rem;
+  }
+  
+  .dp-description {
+    font-size: 1.05rem;
+    line-height: 1.7;
+    margin-bottom: 2rem;
+    color: #444;
+  }
+  
+  /* Additional Section Layouts */
+  .dp-info-grid {
+    display: flex;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+  }
+  
+  .dp-info-card {
+    background: #f8f8f8;
+    padding: 1rem 1.2rem;
+    border-radius: 6px;
+    flex: 1 1 200px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  }
+  
+  .dp-info-label {
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+  
+  .dp-info-value {
+    display: block;
+    margin-top: 0.3rem;
+    color: #555;
+  }
+  
+  /* Experience Paragraph */
+  .dp-full-content {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    color: #3b3b3b;
+    margin-bottom: 2rem;
+  }
+  
+  /* Festivals */
+  .dp-festivals-list {
+    list-style: disc;
+    padding-left: 1.5rem;
+  }
+  
+  .dp-festival-item {
+    margin-bottom: 0.5rem;
+  }
+  
+  /* Not Found */
+  .dp-not-found {
+    text-align: center;
+    padding: 2rem;
+    font-size: 1.5rem;
+    color: red;
+  }
+  
+  /* Responsive Layout */
+  @media screen and (max-width: 768px) {
+    .dp-info-grid {
+      flex-direction: column;
+    }
+  
+    .dp-title {
+      font-size: 2rem;
+    }
+  
+    .dp-section-title {
+      font-size: 1.4rem;
+    }
+  }
+  

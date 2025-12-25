@@ -1,0 +1,236 @@
+{
+  "festivals":[
+  {
+    "id": 1,
+    "name": "Paro Tshechu",
+    "type": "religious",
+    "date": "March 17-21, 2025",
+    "location": {
+      "city": "Paro",
+      "dzongkhag": "Paro District",
+      "venue": "Rinpung Dzong",
+      "coordinates": {
+        "lat": 27.4305,
+        "lng": 89.4133
+      },
+      "address": "Rinpung Dzong, Paro Valley, Bhutan"
+    },
+    "description": "One of Bhutan's most spectacular festivals featuring sacred mask dances that purify and bless spectators.",
+    "detailedDescription": [
+      "The Paro Tshechu is a five-day religious festival held annually in the courtyard of Rinpung Dzong, attracting thousands of devotees and tourists.",
+      "Monks perform sacred Cham dances wearing elaborate costumes and masks representing deities, demons, and animals from Buddhist mythology.",
+      "The festival culminates with the dramatic unfurling of the Thongdrol (a giant religious tapestry) at dawn on the final day, believed to grant liberation to those who view it."
+    ],
+    "historicalSignificance": {
+      "origin": "Established in the 17th century by Zhabdrung Ngawang Namgyal",
+      "purpose": "To commemorate Guru Rinpoche's introduction of Buddhism to Bhutan",
+      "culturalImportance": "The dances preserve ancient religious teachings and serve as a medium for spiritual blessings"
+    },
+    "highlights": [
+      {
+        "title": "Masked Cham Dances",
+        "description": "Sacred dances performed by monks in elaborate costumes depicting Buddhist deities and legends",
+        "duration": "Daily from 9AM to 4PM",
+        "significance": "Each dance conveys specific Buddhist teachings and blessings"
+      },
+      {
+        "title": "Thongdrol Unveiling",
+        "description": "Display of a giant thangka (religious tapestry) measuring 30x45 feet",
+        "time": "Dawn on the final day (March 21)",
+        "significance": "Mere sight of the thangka is believed to cleanse sins and bring spiritual liberation"
+      },
+      {
+        "title": "Traditional Market",
+        "description": "Local artisans selling Bhutanese handicrafts, textiles, and religious artifacts",
+        "location": "Dzong courtyard",
+        "items": "Handwoven textiles, wooden bowls, ritual items, and local snacks"
+      }
+    ],
+    "schedule": [
+      {
+        "day": "Day 1 (March 17)",
+        "events": [
+          "Opening ceremonies and purification rituals (6AM)",
+          "Dance of the Four Stags (10AM)",
+          "Dance of the Three Kinds of Ging (2PM)"
+        ]
+      },
+      {
+        "day": "Day 2 (March 18)",
+        "events": [
+          "Dance of the Lords of the Cremation Grounds (9AM)",
+          "Dance of the Terrifying Deities (1PM)"
+        ]
+      }
+    ],
+    "visitorInformation": {
+      "dressCode": "Modest clothing covering shoulders and knees. Traditional Bhutanese dress (gho/kira) is encouraged but not required.",
+      "etiquette": [
+        "Remove shoes before entering temple areas",
+        "Maintain silence during religious ceremonies",
+        "Ask permission before photographing monks"
+      ],
+      "tips": [
+        "Arrive by 5AM for the Thongdrol unveiling to secure a good viewing spot",
+        "Bring sunscreen and water as seating is outdoors",
+        "Carry small change for donations and market purchases"
+      ],
+      "accessibility": "Limited wheelchair access due to ancient stone steps and uneven surfaces"
+    },
+    "transportation": {
+      "air": "Paro International Airport (PBH) - 10 minute taxi ride to venue",
+      "road": [
+        "Regular buses from Thimphu (1.5 hours)",
+        "Private taxis available throughout Bhutan"
+      ],
+      "parking": "Limited parking available near Rinpung Dzong (arrive early)"
+    },
+    "accommodation": [
+      {
+        "name": "Zhiwa Ling Hotel",
+        "type": "Luxury",
+        "distance": "5km from venue",
+        "features": [
+          "Traditional Bhutanese architecture",
+          "Spa with hot stone baths",
+          "Mountain views"
+        ],
+        "priceRange": "$400-$800/night"
+      },
+      {
+        "name": "Hotel Olathang",
+        "type": "Mid-range",
+        "distance": "3km from venue",
+        "features": [
+          "Bhutanese-style rooms",
+          "On-site restaurant",
+          "Garden setting"
+        ],
+        "priceRange": "$150-$300/night"
+      }
+    ],
+    "gallery": [
+      {
+        "url": "../assets/img/destinations/thimphu.jpg",
+        "caption": "Monks performing the Black Hat dance",
+        "credit": "Photo by Bhutan Tourism Board"
+      },
+      {
+        "url": "/images/paro-tshechu-2.jpg",
+        "caption": "Rinpung Dzong illuminated during festival",
+        "credit": "Photo by National Geographic"
+      },
+      {
+        "url": "/images/paro-tshechu-3.jpg",
+        "caption": "Devotees viewing the Thongdrol",
+        "credit": "Photo by Bhutan Cultural Department"
+      }
+    ],
+    "officialLinks": {
+      "website": "https://www.bhutan.travel/events/paro-tshechu",
+      "tickets": "https://book.bhutan.travel/paro-tshechu",
+      "contact": "tourism@bhutan.gov.bt"
+    },
+    "tags": ["mask dance", "religious", "unesco", "cultural heritage"],
+    "isFeatured": true,
+    "attendanceEstimate": 15000
+  },
+  {
+    "id": 2,
+    "name": "Thimphu Tshechu",
+    "type": "religious",
+    "date": "September 25-27, 2025",
+    "location": {
+      "city": "Thimphu",
+      "dzongkhag": "Thimphu District",
+      "venue": "Tashichho Dzong",
+      "coordinates": {
+        "lat": 27.4924,
+        "lng": 89.6359
+      },
+      "address": "Tashichho Dzong, Thimphu, Bhutan"
+    },
+    "description": "The capital city's grandest religious festival showcasing Bhutan's living cultural heritage.",
+    "detailedDescription": [
+      "Thimphu Tshechu is the largest and most colorful festival in Bhutan's capital, drawing participants from across the country.",
+      "For three days, monks and laymen perform sacred mask dances that depict Buddhist teachings and historical events.",
+      "The festival serves both as a religious ceremony and social gathering, with locals dressed in their finest traditional attire."
+    ],
+    "historicalSignificance": {
+      "origin": "Established in 1867 by the 4th Temporal Ruler, Tenzin Rabgye",
+      "purpose": "To celebrate the deeds of Guru Padmasambhava",
+      "culturalImportance": "Recognized as a key event for preserving Bhutanese cultural identity"
+    },
+    "highlights": [
+      {
+        "title": "Dance of the Eight Manifestations",
+        "description": "Portrayal of Guru Rinpoche's eight forms",
+        "duration": "2 hours",
+        "significance": "Illustrates the guru's methods for subduing negative forces"
+      },
+      {
+        "title": "Night Market",
+        "description": "Festive market with food stalls and handicrafts",
+        "time": "Evenings throughout festival",
+        "items": [
+          "Traditional butter tea",
+          "Ema datshi (chili cheese dish)",
+          "Handwoven textiles"
+        ]
+      }
+    ],
+    "visitorInformation": {
+      "dressCode": "Smart casual. Traditional dress appreciated but not mandatory.",
+      "prohibitedItems": [
+        "Tobacco products",
+        "Plastic bottles",
+        "Large bags"
+      ],
+      "photographyTips": [
+        "Best lighting conditions in morning hours",
+        "Telephoto lens recommended for dance close-ups",
+        "Respect 'no photography' signs in certain areas"
+      ]
+    },
+    "transportation": {
+      "shuttleService": "Free festival shuttle buses from major hotels",
+      "taxiStand": "Designated area near Clock Tower Square",
+      "walkingRoutes": [
+        "From city center: 15 minute walk via pedestrian path",
+        "From Memorial Chorten: 25 minute scenic walk"
+      ]
+    },
+    "accommodation": [
+      {
+        "name": "Taj Tashi",
+        "type": "Luxury",
+        "specialPackage": "Festival Package including guided tour and premium seating",
+        "contact": "reservations@tajtashi.com"
+      },
+      {
+        "name": "Hotel Druk",
+        "type": "Mid-range",
+        "features": "Central location with Dzong views",
+        "priceRange": "$120-$250/night"
+      }
+    ],
+    "gallery": [
+      {
+        "url": "/images/thimphu-tshechu-1.jpg",
+        "caption": "Dance of the Heroes with Guru Rinpoche"
+      },
+      {
+        "url": "/images/thimphu-tshechu-2.jpg",
+        "caption": "Crowd in traditional dress watching performances"
+      }
+    ],
+    "officialLinks": {
+      "visaInfo": "https://www.bhutan.travel/visa",
+      "festivalHotline": "+975-2-323251"
+    },
+    "tags": ["capital city", "mask dance", "cultural performance"],
+    "isFeatured": true,
+    "attendanceEstimate": 25000
+  }
+
+]}

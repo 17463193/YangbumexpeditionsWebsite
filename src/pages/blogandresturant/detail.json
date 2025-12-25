@@ -1,0 +1,140 @@
+{
+  "offers": [
+    {
+      "id": "hotel-1",
+      "type": "hotel",
+      "img": "../assets/img/blog/six senses.jpg",
+      "label": "Mountain View Resort",
+      "details": {
+        "name": "Accommodation",
+        "location": "Paro,Thimphu,Punakha, Bhutan",
+        "description": "Luxurious resort offering panoramic Himalayan views with traditional Bhutanese architecture and modern amenities.Six Senses hotel in Bhutan offers 82 spacious villas and suites, starting from 645 square feet indoors for the suites and up to 3,681 square feet indoors for the three-bedroom villas.",
+        "images": [
+          "../assets/img/blog/6senses.jpg",
+          "../assets/img/blog/bath.png"
+        ],
+        "rating": 4.8,
+        "facilities": ["Traditional wood-burning bukhari stove", "Unlimited WiFi", "Bathtub, rain shower and toilet, ","Tea and coffee making facilities"],
+        "rooms": [
+          {
+            "type": "Deluxe Room",
+            "price": 320,
+            "amenities": ["King Bed", "Mountain View", "Private Balcony"]
+          }
+        ],
+        "contact": "+975-8-271-999"
+      }
+    },
+    {
+      "id": "hotel-2",
+      "type": "hotel",
+      "img": "../assets/img/blog/luxury.jpg",
+      "label": "Riverside Retreat",
+      "details": {
+       
+        "name": "&Beyond Punakha River Lodge",
+        "location": "Punakha, Bhutan",
+        "description": "estled in the lush Punakha Valley  and framed by forested hills and distant Himalaya peaks, &Beyond Punakha River Lodge is Bhutan, distilled. With just six canvas and wood suites, a private River House, and a spacious Family Suite, the lodge blends handcrafted Bhutanese design with quiet elegance. As &Beyond’s first fully owned lodge in Asia, it brings our signature care and light-footprint luxury to the last Himalayan kingdom.",
+        "images": [
+          "../assets/img/blog/river.png",
+          "../assets/img/blog/river room.png"
+        ],
+        "rating": 4.6,
+        "facilities": ["River View Restaurant", "Organic Garden", "Bicycle Rental"],
+        "rooms": [
+          {
+            "type": "River View Room",
+            "price": 280,
+            "amenities": ["Queen Bed", "Handcrafted Furniture"]
+          }
+        ],
+        "contact": "+975-2-584-777"
+      }
+    },
+    {
+      "id": "restaurant-1",
+      "type": "restaurant",
+      "img": "../assets/img/blog/cuisine.jpg",
+      "label": "Bhutanese Flavors",
+      "details": {
+        "name": "Bhutanese Flavors",
+        "cuisine": "Authentic Bhutanese",
+        "description": "Traditional Bhutanese cuisine with family recipes passed down for generations.Ema Datshi. 'Datshi' in the Bhutanese language of Dzongkha means 'cheese', which is what they use in a number of dishes, as Ema Datshi is the national dish of Bhutan",
+        "images": [
+          "../assets/img/blog/ema.jpg",
+          "../assets/img/blog/shakma.jpg"
+        ],
+        "rating": 4.7,
+        "openingHours": "11:00 AM - 9:30 PM (Closed Sundays)",
+        "signatureDishes": ["Ema Datshi", "Shakam Paa"],
+        "priceRange": "$6",
+        "contact": "+975-1700000"
+      }
+    },
+    {
+      "id": "restaurant-2",
+      "type": "restaurant",
+      "img": "../assets/img/blog/bhutanfoodblog.jpg",
+      "label": "Himalayan Fusion",
+      "details": {
+        "name": "Himalayan Fusion Bistro",
+        "cuisine": "Bhutanese-International",
+        "description": "Momos are a type of steamed filled dumpling, It's essentially a small, dough-based pocket filled with meat, vegetables, or cheese, and traditionally cooked by steaming.  ",
+        "images": [
+          "../assets/img/blog/m.jpg",
+          "../assets/img/blog/Bhutan-Momos.jpg"
+        ],
+        "rating": 4.5,
+
+        "signatureDishes": ["Momo(dumpling)", "Mushroom Kewa Datshi"],
+        "priceRange": "$$$",
+        "contact": "+975-2-345-678"
+      }
+    }
+  ],
+  "blogs": [
+    {
+      "id": "blog-1",
+      "img": "../assets/img/blog/phajoding.jpg",
+      "title": "Phajoding Trek Guide",
+      "content": "Complete guide to the sacred Phajoding trek near Thimphu with monastery visits.",
+      "date": "May 15, 2025",
+      "details": {
+        "fullContent": "The 5-6 hour Phajoding Trek takes you through rhododendron forests to sacred monasteries at 3,700m altitude, offering spectacular valley views. Best visited March-November.",
+        "images": [
+          "../assets/img/blog/phajo.jpeg"
+        ],
+        "difficulty": "Moderate",
+        "distance": "8 km"
+      }
+    },
+    {
+      "id": "blog-2",
+      "img": "../assets/img/blog/festival/Bumthang-Nimalung-Techu-Amedewa-Tours-And-Ttrek.jpg",
+      "title": "Nimalung Tshechu, Bumthang",
+      "content": "Experience Bhutan's vibrant religious festivals with masked dances.",
+      "date": "Jul 03, 2025",
+      "details": {
+        "fullContent": "Nestled in the serene landscapes of Bhutan, amidst the majestic Himalayas, lies a hidden gem of cultural celebration known as the Nimalung Tshechu. This vibrant festival, deeply rooted in Bhutanese tradition and spirituality, offers a captivating glimpse into the rich cultural heritage of the kingdom. The Nimalung Tshechu is held at the Nimalung Monastery, which is located in the Chumey Valley of the Bumthang district in Bhutan.",
+        "images": [
+          "../assets/img/blog/festival/Bumthang-Nimalung-Techu-Amedewa-Tours-And-Ttrek.jpg"
+        ],
+        "bestFestivals": ["Paro Tshechu (Spring)", "Thimphu Tshechu (Fall)"]
+      }
+    },
+    {
+      "id": "blog-3",
+      "img": "../assets/img/blog/festival/Bhutanese-Arts-and-Crafts-1-1.jpg",
+      "title": "Bhutanese Crafts",
+      "content": "Exploring the 13 traditional arts and crafts of Bhutan.",
+      "date": "June 10, 2023",
+      "details": {
+        "fullContent": "The 13 traditional arts and crafts of Bhutan, known as 'Zorig Chusum', are a cornerstone of Bhutanese culture and identity.hese practices, which have been passed down through generations, include carpentry, masonry, carving, painting, sculpting, bronze casting, blacksmithing, ornament making, bamboo and cane work, weaving, tailoring and embroidery, woodturning, and paper making. ",
+        "images": [
+          "../assets/img/blog/festival/paint.jpg"
+        ],
+        "topCrafts": ["Textiles", "Thanka Paintings", "Bamboo Products"]
+      }
+    }
+  ]
+}

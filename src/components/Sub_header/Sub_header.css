@@ -1,0 +1,372 @@
+/* BhutanHeroSlider.css */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css');
+
+.hero-slider {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background: #000;
+  overflow: hidden;
+  font-family: 'Arial', sans-serif;
+}
+
+.slide {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 0;
+  transition: opacity 0.7s ease-in-out;
+}
+
+.slide.active {
+  opacity: 1;
+}
+
+.slide::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
+
+.slide-content {
+  position: absolute;
+  top: 50%;
+  left: 8%;
+  transform: translateY(-50%);
+  z-index: 2;
+  max-width: 600px;
+  color: white;
+}
+
+.location {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 24px;
+  font-size: 18px;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+}
+
+.location i {
+  color: white;
+  font-size: 20px;
+}
+
+.main-title {
+  font-size: clamp(48px, 8vw, 75px);
+  font-weight: 300;
+  line-height: 1.1;
+  margin-bottom: 16px;
+  white-space: pre-line;
+}
+
+.subtitle {
+  font-size: clamp(24px, 4vw, 36px);
+  font-weight: 300;
+  font-style: italic;
+  color: whitesmoke;
+  margin-bottom: 24px;
+  letter-spacing: 0.5px;
+}
+
+.description {
+  font-size: clamp(16px, 2vw, 20px);
+  font-weight: 300;
+  line-height: 1.6;
+  opacity: 0.9;
+  max-width: 500px;
+}
+
+.navigation {
+  position: absolute;
+  bottom: 32px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  padding: 16px 32px;
+  border-radius: 50px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.nav-btn {
+  width: 48px;
+  height: 48px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  background: transparent;
+  color: white;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  transition: all 0.3s ease;
+}
+
+.nav-btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: translateY(-2px);
+}
+
+.slide-indicators {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+.indicator {
+  width: 48px;
+  height: 4px;
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 2px;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.indicator::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  background: white;
+  width: 0%;
+  transition: width 0.3s ease;
+}
+
+.indicator.active::before {
+  width: 100%;
+}
+
+.indicator:hover {
+  transform: scale(1.1);
+}
+
+.play-btn {
+  width: 48px;
+  height: 48px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  background: transparent;
+  color: white;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  transition: all 0.3s ease;
+}
+
+.play-btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: translateY(-2px);
+}
+
+.progress-bar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: 5;
+}
+.contact-btn {
+   margin-top: 24px; 
+   padding: 14px 32px; 
+  font-size: 14px;
+  font-weight: 200;
+  border: none;
+  border-radius: 30px;
+  background: #d92332; /* Red accent */
+  color: white;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.contact-btn:hover {
+  background: #860d17; /* Darker red on hover */
+  transform: translateY(-3px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.3);
+}
+
+.contact-btn:active {
+  transform: scale(0.97);
+}
+
+.progress-fill {
+  height: 100%;
+  background: white;
+  width: 0%;
+  transition: width 0.1s linear;
+}
+
+.progress-fill.playing {
+  animation: progress 5s linear;
+}
+
+.scroll-indicator {
+  position: absolute;
+  right: 32px;
+  bottom: 120px;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.scroll-line {
+  width: 1px;
+  height: 64px;
+  background: linear-gradient(to top, #d92332, rgba(255, 255, 255, 0.3));
+  animation: scrollPulse 2s infinite;
+}
+
+.scroll-text {
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  writing-mode: vertical-lr;
+  text-orientation: mixed;
+}
+
+/* Animations */
+@keyframes scrollPulse {
+  0%, 100% { 
+    opacity: 0.6; 
+    transform: translateY(0);
+  }
+  50% { 
+    opacity: 1; 
+    transform: translateY(5px);
+  }
+}
+
+@keyframes progress {
+  0% { width: 0%; }
+  100% { width: 100%; }
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  .slide-content {
+    left: 6%;
+    max-width: 550px;
+  }
+}
+
+@media (max-width: 768px) {
+  .slide-content {
+    left: 5%;
+    max-width: 90%;
+  }
+
+  .navigation {
+    bottom: 20px;
+    padding: 12px 20px;
+    gap: 16px;
+  }
+
+  .nav-btn, .play-btn {
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
+  }
+
+  .indicator {
+    width: 32px;
+  }
+
+  .scroll-indicator {
+    right: 20px;
+    bottom: 100px;
+  }
+}
+
+@media (max-width: 480px) {
+  .slide-content {
+    left: 4%;
+    max-width: 92%;
+  }
+
+  .main-title {
+    font-size: 36px;
+    margin-bottom: 12px;
+  }
+
+  .subtitle {
+    font-size: 20px;
+    margin-bottom: 16px;
+  }
+
+  .description {
+    font-size: 16px;
+  }
+
+  .location {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+
+  .navigation {
+    gap: 12px;
+    padding: 10px 16px;
+  }
+
+  .nav-btn, .play-btn {
+    width: 36px;
+    height: 36px;
+    font-size: 14px;
+  }
+
+  .indicator {
+    width: 24px;
+    height: 3px;
+  }
+
+  .scroll-indicator {
+    display: none;
+  }
+}
+
+@media (max-width: 320px) {
+  .slide-content {
+    left: 3%;
+  }
+
+  .main-title {
+    font-size: 32px;
+  }
+
+  .subtitle {
+    font-size: 18px;
+  }
+
+  .description {
+    font-size: 14px;
+  }
+}
